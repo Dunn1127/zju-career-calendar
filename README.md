@@ -1,5 +1,7 @@
 # 浙大宣讲日历
 
+**[打开浙大宣讲日历](https://dunn1127.github.io/zju-career-calendar/)** · **[GitHub源码](https://github.com/Dunn1127/zju-career-calendar)**
+
 独立于大工项目的浙江大学校园招聘日历。个人开源项目，非学校官方产品；活动安排以[浙江大学就业服务平台](https://www.career.zju.edu.cn/)为准。
 
 ## 使用方式

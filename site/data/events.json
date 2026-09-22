@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T14:51:23.670Z",
-  "lastSuccessAt": "2026-09-21T14:51:23.670Z",
+  "generatedAt": "2026-09-22T13:07:45.341Z",
+  "lastSuccessAt": "2026-09-22T13:07:45.341Z",
   "window": {
-    "start": "2026-09-16",
-    "end": "2026-10-06"
+    "start": "2026-09-17",
+    "end": "2026-10-07"
   },
   "source": {
     "url": "https://www.career.zju.edu.cn/",
@@ -12,213 +12,10 @@
   },
   "sync": {
     "status": "ok",
-    "fetchedCount": 294,
+    "fetchedCount": 299,
     "detailFailures": 0
   },
   "events": [
-    {
-      "id": "talk:xjh:c16389c3efbdab2a203cb340de50060d",
-      "kind": "talk",
-      "title": "中国电科第十四研究所2027届校园招聘宣讲会",
-      "company": "中国电子科技集团公司第十四研究所",
-      "startAt": "2026-09-16T13:30:00+08:00",
-      "endAt": null,
-      "date": "2026-09-16",
-      "venue": "玉泉永谦活动中心二楼报告厅",
-      "campus": "玉泉校区",
-      "building": "玉泉永谦活动中心二",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=c16389c3efbdab2a203cb340de50060d",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "中国电科第十四研究所2027届校园招聘简章\n\n三军之眼 国之重器\n\n中国电子科技集团公司第十四研究所成立于 1949 年，是中国雷达工业的发源地，是我国诸多新型、高端雷达装备的创始者，是能够提供陆、海、空、天全领域预警探测系统装备的大型、高科技、综合性研究所，推动中国雷达实现由跟跑、并跑到部分领跑的跨越，被誉为“三军之眼、国之重器”。\n\n厚待英才 赋能成长\n\n1、平台优势：\n\n体系化培养培训、唯能力晋升通道、多元化激励机制、人性化工作氛围\n\n2、薪酬体系：\n\n高竞争力薪酬待遇、六险两金三补贴、岗位分红、中长期激励\n\n3、福利政策：\n\n餐饮补助、租房补贴、年度健康体检、接驳班车\n\n广纳贤才 同向同行\n\n专业需求：\n\n1、电子与通信类: 电子科学与技术、信息与通信工程、信号与信息处理、水声工程、电磁场与微波技术、电路与系统、微电子学与固体电子学、电子封装等；\n\n2、计算机类：计算机科学与技术、计算数学、软件工程、人工智能等；\n\n3、机械与控制类：控制科学与工程、机械工程、工程力学、材料加工工程、质量与可靠性等；\n\n4、其他类：会计、财务管理、税务、审计、法律、经济学、纪检监察、建筑与土木工程等；\n\n步履循章 筑梦启程\n\n招聘流程：网申投递一专业笔试面试一综合面试一线上测评一录用审批一发放offer\n\n网申地址：hr.nriet.com（该网申地址为我所校招唯一简历投递通道）\n\n工作地点：南京市雨花台区国睿路8号\n\n扫描二维码关注【十四所校园招聘】公众号，获取更多招聘动态！\n\n少年有志，逐梦长空\n\n期待闪闪发光的你\n\n奔赴国防科创的全新征程！",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "talk:xjh:671df74affc7473ef34a343481c16555",
-      "kind": "talk",
-      "title": "中国航发湖南动力机械研究所2027届校园招聘",
-      "company": "中国航发湖南动力机械研究所",
-      "startAt": "2026-09-16T14:00:00+08:00",
-      "endAt": null,
-      "date": "2026-09-16",
-      "venue": "玉泉校区永谦活动中心二楼排练厅",
-      "campus": "玉泉校区",
-      "building": "玉泉校区永谦活动中心二",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=671df74affc7473ef34a343481c16555",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "心动力，驱动强国梦\n\n——中国航发湖南动力机械研究所2027届校园招聘\n\n一、关于我们\n\n中国航发湖南动力机械研究所（简称中国航发动研所）成立于1968年3月，地处长株潭核心城市群核心城市—株洲，隶属于中国航空发动机集团有限公司，是中国航空发动机集团三大主机所之一。动研所是国家教育部批准的具有博士和硕士学位培养权的单位，设有博士后科研工作站和湖南省院士工作站。动研所具有雄厚科研实力的研发团队，拥有全品类的航空发动机产品，具备与世界一流企业同台竞技的研发和试验能力，创造了我国航空发动机领域多个第一，荣获了多项国家级奖项和荣誉。动研所先后获专利授权2100余项，国家、省部级科学技术奖500余项，其中“玉龙”发动机获国家科技进步一等奖，是我国航空发动机单独申报取得的最高国家级奖项。\n\n二、薪酬待遇\n\n· 具有竞争力的薪资待遇和一次性安家补助。\n\n· 提供职工住房补贴和住宿补贴。\n\n· 享受职工用餐补贴和交通补贴。\n\n· 五险两金、职工疗养疗休、年度健康体检等福利保障项目一应俱全，解决你衣食住行的后顾之忧。\n\n· 地方政府补贴，以实时政策为准。\n\n三、人才成长\n\n· 设有博士后科研工作站。\n\n· 所博士点、硕士点自主培养。\n\n· 与国内知名高校工程硕博士联合培养。\n\n· 骨干带培新员工、专家带培骨干、总师带培博士等多层次、全方位的人才带培模式。\n\n· 四十多个在研型号，广阔的研究发展平台，有效保障研发能力的快速提升。\n\n· 畅通有序的“干部、管理、技术、技能、项目”五大序列职级晋升通道。\n\n四、招聘岗位\n\n航空发动机总体设计(含混电、氢能等)、航空发动机部件设计、传动系统设计、发动机健康管理及数智化设计、发动机控制系统设计、机械系统设计(滑油、轴承、密封等)、结构强度设计及优化、发动机试验与测试、信息系统开发与运维、航空发动机装配工艺、发动机通用基础技术研究等。\n\n五、需求专业\n\n专业类别\n\n专业名称\n\n航空航天类\n\n航空宇航推进理论与工程,航空宇航科学与技术,航空工程，航天工程，飞行器动力工程，航空噪声与振动工程，飞行器适航技术，适航技术与管理,航空器结构与适航技术\n\n能源动力类\n\n动力工程，工程热物理，动力工程及工程热物理(含氢能源方向)，流体机械及工程，动力机械及工程\n\n机械类\n\n机械工程(含轴承设计、密封设计方向)，机械工程及其自动化，机械设计制造及其自动化，机械设计及理论，机械电子工程，过程装备与控制工程\n\n电子信息与控制类\n\n控制工程，控制科学与工程，飞行器控制与信息工程，电子信息工程\n\n力学类\n\n流体力学，固体力学，力学等\n\n仪器仪表类\n\n测控技术与仪器，仪器仪表工程，测试计量技术及仪器，精密仪器及机械，仪器科学与技术\n\n电气类\n\n电气工程（含混合电推进技术、电机设计方向)，电气工程及其自动化，电气信息工程\n\n信息化类\n\n计算机应用技术，软件工程，大数据与人工智能等\n\n管理类\n\n人力资源管理，行政管理，财务管理，会计学，保密科学与技术，保密管理，档案学，工程管理，土木工程\n\n六、简历投递\n\n登陆招聘官网（http://campus.51job.com/zghfdys2027）即可网申报名并查看宣讲行程，网申之后将会自动触发心理测评至邮箱，请务必在面试之前完成心理测评。宣讲会现场将会进行面试，请感兴趣的同学携带个人简历、成绩单、荣誉证书、学历证书等相关资料。\n\n网申二维码",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "fair:zph:59EBAD67CA4AD4F8E0653A68DD0E9B18",
-      "kind": "fair",
-      "title": "中国石油天然气集团2027届校园招聘浙大专场",
-      "company": "",
-      "startAt": "2026-09-16T14:30:00+08:00",
-      "endAt": "2026-09-16T16:00:00+08:00",
-      "date": "2026-09-16",
-      "venue": "紫金港校区主图报告厅",
-      "campus": "紫金港校区",
-      "building": "",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/zphgl/ckZphsqdw.zf?zphbh=59EBAD67CA4AD4F8E0653A68DD0E9B18",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "中国石油2026年秋季高校毕业生\n\n校招宣讲咨询会浙江大学站\n\n宣讲会\n\n2026年9月16日14:30 紫金港校区主图报告厅\n\n咨询会\n\n2026年9月16日15:30 紫金港校区主图报告厅\n\n单位简介：\n\n中国石油天然气集团有限公司是国有重要骨干企业和全球主要的油气生产商和供应商之一，是集国内外油气勘探开发和新能源、炼化销售和新材料、支持和服务、资本和金融等业务于一体的综合性国际能源与化工公司。2026年，在《财富》杂志全球500家大公司排名中位居第十，在石油公司中位居第二，同时还是全球第二大炼油公司、第三大化工公司。\n\n招聘专业：\n\n提供1000多个岗位、10000多个招聘名额，涉及计算机科学与技术、软件工程、信息与计算科学、信息工程、电子信息工程、信息与通信工程、控制科学与工程、控制理论与控制工程、自动化、机器人工程、人工智能、机械工程、动力工程、动力工程及工程热物理、电气工程、新能源科学与工程、新能源材料与器件、清洁能源技术、储能科学与工程、高分子化学与物理、材料科学与工程、材料与化工、材料学、材料成型及控制工程、构造地质学、地质学、地球化学、化学工程与技术、化学工程与工艺、能源化学工程、网络空间安全、网络工程、物联网工程、测控技术与仪器、过程装备与控制工程、资源与环境、环境工程、环境科学与工程、土木工程、土木水利、岩土工程、给排水科学与工程、安全工程、测绘工程、工程造价、工程管理、管理科学与工程、工商管理、企业管理、数学、数学与应用数学、物理学、力学、工程力学、化学、微生物学、生物化学与分子生物学、生物工程、建筑学、法学、法学理论、民商法学、经济法学、新闻学、传播学、会计学、经济学、财政学、金融学、审计学、哲学、马克思主义理论、英语、俄语、语言学及应用语言学、汉语言文学等数百个专业。\n\n参会单位：\n\n中国石油天然气集团有限公司所属数智研究院、规划总院、科学技术研究院、石油化工研究院、工程技术研究院、经济技术研究院、安全环保技术研究院、工程材料研究院、深圳新能源研究院、上海新材料研究院、大庆油田、辽河油田、长庆油田、塔里木油田、新疆油田、西南油气田、大港油田、青海油田、华北油田、吐哈油田、浙江油田、煤层气、大庆石化、抚顺石化、辽阳石化、兰州石化、独山子石化、大连石化、西太平洋石化、大庆炼化、广西石化、四川石化、广东石化、云南石化、大港石化、润滑油、华东化工销售、陕西销售、江苏销售、浙江销售、安徽销售、昆仑能源、中油国际、中油国际管道、国际事业、西部钻探、长城钻探、渤海钻探、川庆钻探、东方物探、海洋工程、大庆钻探、中油测井、管道局、工程建设、寰球工程、昆仑工程、北京项目管理、中油技开、装备制造创新中心、昆仑数智、共享运营等62家企业。\n\n中国石油所属各企业情况介绍及具体招聘岗位，请扫描下方二维码，进入中国石油高校毕业生招聘平台进行查看，欢迎同学们报名！",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "talk:kzxjh:9154b52f1c06c74099f72c5b65839581",
-      "kind": "talk",
-      "title": "【在桃李，见未来】桃李未来27届秋招-空中宣讲会0916",
-      "company": "深圳桃李未来教育集团有限公司\n\n播放次数\n1人",
-      "startAt": "2026-09-16T16:00:00+08:00",
-      "endAt": "2026-09-16T17:00:00+08:00",
-      "date": "2026-09-16",
-      "venue": "线上活动",
-      "campus": "线上活动",
-      "building": "",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/kzxjh/ckKzXjhgwXq.zf?xjhbh=9154b52f1c06c74099f72c5b65839581",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "【在桃李，见未来】桃李未来2027届秋季校园招聘\n\n2026年9月16日 下午4点\n\nB站直播地址：https://live.bilibili.com/3356592\n\n不限专业，不限教资，26-27届均可投递\n\n2026年9月-11月，每周三下午4点B站直播间见~\n\n一、关于我们\n\n（1）简介：\n\n深圳桃李未来教育集团有限公司(简称桃李未来)成立于2018年8月,立足深圳,辐射国际教育市场,拥有员工近1500人,每年服务超10万个家庭。桃李未来已经获得国家高新技术企业、专精特新企业、创新型中小企业、国家鼓励的软件企业和双软认证等5项科技公司认证,拥有国家级发明专利2项及诸多著作版权。\n\n（2）业务板块：\n\n桃李培优（精细化小班、分层教学、学科竞赛）、桃李1对1（个性化定制教学）桃李童学（语言艺术、科创编程）桃李国际（语言培训、国际竞赛、择校备考）；\n\n桃李未来学校（全日制高考复读学校）、桃李湾区国际书院（高标准全日制国际学校）；\n\n桃李中文（HSK备考、来华留学、中文学习APP）。\n\n二、招聘岗位及薪资（入职前半年薪资保护）\n\n招聘岗位：培优班课教师，【班课老师平均首年 20-25 万】\n\n高中：数学、物理、化学、语文、英语\n\n初中：语文、数学、英语、化学\n\n招聘岗位：1对1教师，【1对1老师平均首年 15-20 万】\n\n高中：数学、物理、化学\n\n三、应聘流程\n\n1、线上/线下初试（试讲+综合面试）→复试（12min录课考核）→培训邀约沟通→线下专业培训→三方签约沟通→岗前培训→毕业报到\n\n四、福利\n\n1、独特发薪日：每月1号发薪\n\n2、入职缴纳六险一金，年度体检；帮助深圳落户，提供30-50万安家免息借款\n\n2、丰富的团建活动（部门年度旅游；年会、周年庆、运动会；）\n\n4、职业发展：专业、管理双通道同步发展\n\n5、工作时间：早9晚6，双休（平时周一、周二错峰休息，周三至周五为教研备课日，周末集中授课；寒暑假期为教学旺季，排课密度相应提升）\n\n6、尊重选择：考研考公上岸不算违约\n\n7、节日礼包：结婚/生育/年节礼金、带薪年假、专属小暑假、生日礼包、节日礼品\n\n8、社团活动：每周举行羽毛球、篮球、桌游、足球社团\n\n9、自由活跃：人员年轻化、万米跑、登山等体育活动\n\n10、学习福利：员工子女免费培优班课\n\n五、空中宣讲会时间和地址\n\n2026年9月16日 下午4点\n\nB站直播地址：https://live.bilibili.com/3356592\n\n直播当天社群有海量礼品和滚动刷新红包~~\n\n了解更多招聘信息请进入桃李未来校招交流群，关注“桃李未来选聘”微信公众号\n\n六、联系方式\n\n联系微信：（微信同号）\n\n投递邮箱：\n\n投递链接：https://bsurl.cn/v2/lkXzyc3S\n\n投递二维码与社群二维码：",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "talk:xjh:ffa34491701ef8a04b4d7ca0bb18965a",
-      "kind": "talk",
-      "title": "中国原子能科学研究院2027届秋季校园招聘",
-      "company": "中国原子能科学研究院",
-      "startAt": "2026-09-16T18:30:00+08:00",
-      "endAt": null,
-      "date": "2026-09-16",
-      "venue": "紫金港西区尧坤楼201室",
-      "campus": "紫金港校区",
-      "building": "紫金港西区尧坤楼201",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=ffa34491701ef8a04b4d7ca0bb18965a",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "中国原子能科学研究院2027届校园招聘简章\n\n单位简介：\n\n中国原子能科学研究院创建于1950年，是我国核科学技术的发祥地和基础性、前瞻性、先导性、工程性核科研综合基地。以此为基础，原子能院在我国“两弹一艇”研制攻关中做出了历史性的贡献。在国家表彰的23位“两弹一星”功勋奖章获得者中，有7位在这里创建功勋，有70余位两院院士曾在这里学习和工作过，国内十几个重要的核科研和生产单位由此派生，从这里输送出去的各类骨干人才有上万名。\n\n原子能院现有职工4500余人，其中高级科研与工程技术人员1400余人、两院院士6人、博（硕）士研究生导师369人、享受政府特殊津贴35人、入选国家“百千万 人才工程”5人，中核集团首席专家16人，中核集团科技带头人21人。可谓群英荟萃。在当今实现中国特色社会主义现代化强国、高效发展核能、加强科技创新的新时期，原子能院将继续弘扬“以身许国、敢为人先、严谨求实”的“四〇一院训”，诚邀海内外英才加入，共赴建设现代富强文明和谐美好的原子科学城的奋斗之路。\n\n招聘岗位：\n\n基础研究类、科技研发类、专业技术类、工程设计类、工程建设类、运行保障类等众多岗位\n\n专业需求：\n\n1.核科学与技术类、电气工程类、物理学类、电子科学与技术类、化学工程与技术类、动力工程与工程热物理类、机械类、化学类、力学类、控制科学与工程类、材料科学类、仪器科学与技术类、环境科学与工程类、建筑设计类、能源动力类、安全科学与工程类、工业工程类、数学类等理工类专业。\n\n2.具体岗位信息请登录我院人才招聘网（https://cnnc.zhiye.com/custom/ciae）查看。\n\n应聘条件：\n\n1. 2027届高校应届毕业生，专业基础扎实，成绩良好。\n\n2.具备良好的综合素质、学习能力和团队协作能力。\n\n3.具有较强的科技创新能力和发展潜力。\n\n4. 其他条件可登录院人才招聘网查看岗位要求\n\n薪资福利：\n\n1. 央企，地点在北京市\n\n2. 市场化竞争力薪资，配备职工公寓，享受福利分房政策\n\n3. 社会保障：中央养老保险、职业年金、公费医疗\n\n4. 培训体系：入职培训、岗位培训、导师制培养\n\n5. 员工关怀：健康体检、职工食堂、生活超市、通勤班车\n\n6. 休假：集中休假、带薪年假、探亲假、产假\n\n7. 生日礼物、过节福利、用餐、租房等各类补贴\n\n招聘程序：\n\n简历投递 → 资格审查 → 笔试 → 面试 → 体检 → 录用\n\n报名方式：\n\n1. 登陆我院人才招聘网（https://cnnc.zhiye.com/custom/ciae）或直接“扫码投递”。\n\n2.发送简历至电子邮箱：（简历和邮件主题均以“学校-学历-专业-姓名”命名）。",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "talk:xjh:2fb0aed311919d5b8547141f244cbac7",
-      "kind": "talk",
-      "title": "中国石油勘探开发研究院秋季招聘宣讲会",
-      "company": "中国石油天然气股份有限公司杭州地质研究院",
-      "startAt": "2026-09-16T18:30:00+08:00",
-      "endAt": null,
-      "date": "2026-09-16",
-      "venue": "紫金港校区尧坤楼222传化厅",
-      "campus": "紫金港校区",
-      "building": "紫金港校区尧坤楼222",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=2fb0aed311919d5b8547141f244cbac7",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "talk:xjh:c9f7cc5cc5431ac2d1810fb0321f2d5a",
-      "kind": "talk",
-      "title": "宁德时代2027届全球校园招聘宣讲会",
-      "company": "宁德时代新能源科技股份有限公司",
-      "startAt": "2026-09-16T19:00:00+08:00",
-      "endAt": null,
-      "date": "2026-09-16",
-      "venue": "玉泉校区永谦活动中心二楼排练厅",
-      "campus": "玉泉校区",
-      "building": "玉泉校区永谦活动中心二",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=c9f7cc5cc5431ac2d1810fb0321f2d5a",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "宁德时代2027届全球校园招聘正式启动\n\n——让时代，因我不同\n\n【亮点速递】\n\n1.海量招录：6大职类全面开放，50+业务部门联合参与，6000+校招offer虚位以待\n\n2.多轮匹配：每人拥有3次志愿机会，前志愿未通过筛选时，简历自动流转下一志愿\n\n【招聘对象】\n\n2027届应届毕业生，毕业时间为2026年7月-2027年12月\n\n* 中国大陆（内地）以毕业证为准，中国港澳台及海外地区以学位证为准\n\n【招聘详情】\n\n常规在招：\n\n研发类：适配化学、材料、机械、电气、电力电子、计算机、AI、数据科学、力学、能源动力、可靠性等各类理工科专业\n\n计算机与AI类：适配计算机、人工智能、数据科学、软件工程、信息通信、统计学等相关专业\n\n市场类：适配化学、机械、车辆工程、电气、电力电子等各类理工科专业，以及市场营销、国际贸易、项目管理等管理类专业\n\n供应链与运营类：适配供应链、物流、工业工程、机械、电气、计算机等各类理工科及管理类专业\n\n质量管理类：适配质量管理、化学、材料、机械、电气、计算机、数据科学等理工科专业\n\n职能类：适配金融财会、法学、语言类、管理类、消防工程、安全工程等各类专业\n\n人才专项：\n\n宁德时代CTP顶尖人才项目——面向全球顶尖硕博毕业生，旨在培养未来技术领军者与行业破局者。提供专属培养路径、顶尖导师带教、核心项目历练。\n\n宁德时代2027博士专项招聘——针对博士研究生的专属通道，聚焦材料科学、电化学、AI for Science等前沿领域，与行业大牛并肩攻克技术难题。\n\n* 具体项目介绍与岗位详情，请登录宁德时代招聘官网：Talent.CATL.com查看\n\n【招聘流程】\n\n网申投递-AI面试-在线测评-专业面试-offer发放\n\n*具体以收到的通知为准\n\n【薪酬福利】\n\n提供行业内具有竞争力的薪资，顶尖人才薪酬不设上限\n\n更有各类补贴、项目奖金、年终奖金、专项奖金、长期激励\n\n我们提供各式员工福利，包括公司宿舍、员工餐厅、节日礼包、法定年休假+补充福利假等，致力于为你提供更舒心的工作体验\n\n【人才培养】\n\n拒绝职场“野蛮式”成长：公司定制2年培养周期，从集中赋能到产品实训，再到在岗深耕，为校招生提供系统化成长路径，校招导师全程陪伴，助力持续进步。\n\n双职业发展通道任你选择：提供“管理”与“技术/专家”双职业发展通道，更有全球化平台、全产业链赛道业务场景、丰富学习资源加持，你的能力上限，由自己定义。\n\n【公司介绍】\n\n宁德时代新能源科技股份有限公司是全球领先的零碳新能源科技公司，致力于为全球新能源应用提供一流解决方案和服务。公司总部位于福建省宁德市，已在全球已建设并投产24座电池工厂。2018年6月，公司于深圳证券交易所上市；2025年5月，宁德时代在香港联合交易所主板挂牌上市。\n\n立足技术领先优势和供应链整合能力，宁德时代率先在储充检智能充电站、电动船舶、电动智慧无人矿山、重卡换电、航空及低空领域等新产业生态完成布局。同时，公司还与多家全球领先的科技企业建立合作，共同推广高效新型AIDC能源解决方案。\n\n2025年宁德时代实现营业收入4237亿元，同比增长17%。根据SNE Research数据统计，2017-2025年，宁德时代动力电池使用量连续9年排名全球第一；2021-2025年储能电池出货量连续5年蝉联全球榜首。\n\n未来，宁德时代将持续推动零碳科技、零碳电力业务发展，完善零碳经济创新链、产业链与价值链，致力于为人类新能源事业做出卓越贡献。\n\n了解更多公司信息，请登录公司官网：www.catl.com\n\n【其他指引】\n\nl 更多校招资讯与投递进度信息，请关注微信公众号“CATL宁德时代招聘”获取\n\nl 关注小红书官方号“CATL宁德时代招聘”，更有校招内推码间歇惊喜掉落",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
-      "changes": [
-        "new"
-      ]
-    },
     {
       "id": "fair:zph:5977FB064FF6F6A7E0653A68DD0E9B18",
       "kind": "fair",
@@ -243,7 +40,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -272,7 +69,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -301,7 +98,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -330,7 +127,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -359,7 +156,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -388,7 +185,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -417,7 +214,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -446,7 +243,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -475,7 +272,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -504,7 +301,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -533,7 +330,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -542,7 +339,7 @@
       "id": "talk:kzxjh:3b92328bb6e3f6bd28e9fdfb57756dae",
       "kind": "talk",
       "title": "9月17日周四18：30 | 广立微2027届校招空宣火热来袭！",
-      "company": "杭州广立微电子股份有限公司\n\n播放次数\n3人",
+      "company": "杭州广立微电子股份有限公司\n\n播放次数\n4人",
       "startAt": "2026-09-17T18:30:00+08:00",
       "endAt": "2026-09-17T21:30:00+08:00",
       "date": "2026-09-17",
@@ -562,7 +359,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -591,7 +388,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -620,7 +417,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -649,7 +446,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -678,7 +475,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -707,7 +504,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -736,7 +533,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -765,7 +562,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -794,7 +591,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -823,7 +620,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -852,7 +649,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -881,7 +678,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -910,7 +707,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -939,7 +736,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -968,7 +765,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -997,7 +794,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1026,7 +823,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1055,7 +852,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1084,7 +881,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1113,7 +910,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1142,7 +939,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1171,7 +968,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1200,7 +997,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1229,7 +1026,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1258,7 +1055,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1287,7 +1084,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1316,7 +1113,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1345,7 +1142,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1374,7 +1171,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1403,7 +1200,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1432,7 +1229,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1461,7 +1258,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1490,7 +1287,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1519,7 +1316,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1548,7 +1345,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1577,7 +1374,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1606,7 +1403,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1635,7 +1432,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1664,7 +1461,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1693,7 +1490,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1722,7 +1519,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1751,7 +1548,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1780,7 +1577,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1809,7 +1606,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new",
         "time"
@@ -1844,7 +1641,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1873,7 +1670,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1902,7 +1699,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1931,7 +1728,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1960,7 +1757,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -1989,7 +1786,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2018,7 +1815,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2047,7 +1844,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2076,7 +1873,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2105,7 +1902,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2134,7 +1931,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2163,7 +1960,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2192,7 +1989,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2221,7 +2018,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2250,7 +2047,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2279,7 +2076,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2308,7 +2105,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2337,7 +2134,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2366,7 +2163,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2395,7 +2192,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2424,7 +2221,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2453,7 +2250,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2482,7 +2279,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2511,7 +2308,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2540,7 +2337,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2569,7 +2366,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2598,7 +2395,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2627,7 +2424,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2656,7 +2453,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2685,7 +2482,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2714,7 +2511,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2743,7 +2540,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2772,7 +2569,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2801,7 +2598,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2830,7 +2627,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2859,7 +2656,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2913,11 +2710,11 @@
       },
       "jobs": [],
       "participants": [],
-      "description": "中国船舶集团有限公司 2027 届校园招聘-浙江大学专场\n\n宣讲时间：2026年9月23日9:30\n\n宣讲地点：紫金港校区 理学楼201报告厅\n\n双选地点：紫金港校区 尧坤楼2层（双选将在宣讲结束后进行）\n\n一、单位介绍\n\n中国船舶集团有限公司（以下简称中船集团）是中央直接管理的特大型国有重要骨干企业，是我国船舶工业发展的国家队、主力军。中船集团有着深厚的历史底蕴，旗下拥有江南造船、大连造船、黄埔文冲等一批百年船厂。中船集团始终坚决贯彻党中央、国务院决策部署，自力更生、艰苦奋斗，推动我国船舶工业实现了跨越式发展。中船集团现有资产总额超万亿元，员工总数 18 万人，拥有 11 家控股上市公司、34 家科研院所、10 名中国工程院院士。\n\n中船集团是我国海军武器装备科研、设计、生产、试验、保障的主体力量，拥有我国最大最强的船舶设计建造能力，能够设计建造符合世界上任何一家船级社规范、满足国际通用技术标准和安全公约要求、适航于全球任意航区的船舶海工装备。中船集团持续拓展新材料、电子特气、高端仪器仪表、工业软件、量子科技、超导材料等战略性新兴产业，不断发展贸易、投资、金融、物流等现代制造服务产业，加快建设产业结构合理、质量效益领先、军工核心突出、国际竞争力强的世界一流船舶集团。\n\n二、招聘流程\n\n网上招聘 / 校园宣讲 → 接收简历 → 筛选简历 → 面试签约 → 政审体检\n\n三、重点专业\n\n海洋工程类、交通运输类、机械类、能源动力类、自动化类、电气类、电子信息类、计算机类、材料类、核工程类、其他理工科类、管理 / 经济 / 法学类等其他学科\n\n四、工作地点\n\n上海市、北京市、天津市、重庆市、辽宁省、河北省、河南省、山东省、山西省、陕西省、湖北省、江苏省、浙江省、江西省、福建省、云南省、广东省、广西壮族自治区、海南省、安徽省、黑龙江省等全国 23 个省市及地区。\n\n五、招聘网站\n\n招聘官网：cssc.zhaopin.com\n\n六、参会企业\n\n序号\n\n单位名称\n\n1\n\n江南造船（集团）有限责任公司\n\n2\n\n大连船舶重工集团有限公司\n\n3\n\n中国船舶集团渤海造船有限公司\n\n4\n\n沪东中华造船（集团）有限公司\n\n5\n\n武昌船舶重工集团有限公司\n\n6\n\n广船国际有限公司\n\n7\n\n上海外高桥造船有限公司\n\n8\n\n中船澄西船舶修造有限公司\n\n9\n\n中船动力（集团）有限公司\n\n10\n\n武汉船用机械有限责任公司\n\n11\n\n中国船舶集团汾西重工有限责任公司\n\n12\n\n重庆前卫科技集团有限公司\n\n13\n\n中船九江海洋装备（集团）有限公司\n\n14\n\n中国舰船研究院\n\n15\n\n中国船舶集团有限公司系统工程研究院\n\n16\n\n中国船舶集团有限公司第七〇一研究所\n\n17\n\n中国船舶集团有限公司第七〇二研究所\n\n18\n\n中国船舶集团有限公司第七〇三研究所\n\n19\n\n中国船舶集团有限公司第七〇四研究所\n\n20\n\n中国船舶集团有限公司第七〇五研究所\n\n21\n\n中国船舶集团有限公司第七〇七研究所\n\n22\n\n中国船舶集团有限公司第七〇八研究所\n\n23\n\n中国船舶集团有限公司第七一〇研究所\n\n24\n\n中国船舶集团有限公司第七一一研究所\n\n25\n\n中国船舶集团有限公司第七一二研究所\n\n26\n\n中国船舶集团有限公司第七一三研究所\n\n27\n\n中国船舶集团有限公司第七一五研究所\n\n28\n\n中国船舶集团有限公司第七一六研究所\n\n29\n\n中国船舶集团有限公司第七一七研究所\n\n30\n\n中国船舶集团有限公司第七一八研究所\n\n31\n\n中国船舶集团有限公司第七一九研究所\n\n32\n\n中国船舶集团有限公司第八研究院\n\n33\n\n中国船舶集团有限公司第七二五研究所\n\n34\n\n中国船舶集团有限公司第七二六研究所\n\n35\n\n中国船舶集团有限公司湖海试验中心\n\n36\n\n中国船舶集团有限公司综合技术经济研究院\n\n37\n\n上海船舶研究设计院\n\n38\n\n中国船舶集团有限公司第十一研究所\n\n39\n\n中船第九设计研究院工程有限公司\n\n40\n\n中船科技股份有限公司\n\n41\n\n中国船舶集团环境发展有限公司",
+      "description": "中国船舶集团有限公司 2027 届校园招聘-浙江大学专场\n\n宣讲时间：2026年9月23日9:30\n\n宣讲地点：紫金港校区 理学楼201报告厅\n\n双选地点：紫金港校区 尧坤楼2层（双选将在宣讲结束后进行）\n\n宣讲现场领取中国船舶集团文创纪念品，先到先得！\n\n玉泉校区有大巴车接驳，8:30从8号宿舍楼门口马路出发，乘车的同学们可以扫码进群\n\n一、单位介绍\n\n中国船舶集团有限公司（以下简称中船集团）是中央直接管理的特大型国有重要骨干企业，是我国船舶工业发展的国家队、主力军。中船集团有着深厚的历史底蕴，旗下拥有江南造船、大连造船、黄埔文冲等一批百年船厂。中船集团始终坚决贯彻党中央、国务院决策部署，自力更生、艰苦奋斗，推动我国船舶工业实现了跨越式发展。中船集团现有资产总额超万亿元，员工总数 18 万人，拥有 11 家控股上市公司、34 家科研院所、10 名中国工程院院士。\n\n中船集团是我国海军武器装备科研、设计、生产、试验、保障的主体力量，拥有我国最大最强的船舶设计建造能力，能够设计建造符合世界上任何一家船级社规范、满足国际通用技术标准和安全公约要求、适航于全球任意航区的船舶海工装备。中船集团持续拓展新材料、电子特气、高端仪器仪表、工业软件、量子科技、超导材料等战略性新兴产业，不断发展贸易、投资、金融、物流等现代制造服务产业，加快建设产业结构合理、质量效益领先、军工核心突出、国际竞争力强的世界一流船舶集团。\n\n二、招聘流程\n\n网上招聘 / 校园宣讲 → 接收简历 → 筛选简历 → 面试签约 → 政审体检\n\n三、重点专业\n\n海洋工程类、交通运输类、机械类、能源动力类、自动化类、电气类、电子信息类、计算机类、材料类、核工程类、其他理工科类、管理 / 经济 / 法学类等其他学科\n\n四、工作地点\n\n上海市、北京市、天津市、重庆市、辽宁省、河北省、河南省、山东省、山西省、陕西省、湖北省、江苏省、浙江省、江西省、福建省、云南省、广东省、广西壮族自治区、海南省、安徽省、黑龙江省等全国 23 个省市及地区。\n\n五、招聘网站\n\n招聘官网：cssc.zhaopin.com\n\n六、参会企业\n\n序号\n\n单位名称\n\n1\n\n江南造船（集团）有限责任公司\n\n2\n\n大连船舶重工集团有限公司\n\n3\n\n中国船舶集团渤海造船有限公司\n\n4\n\n沪东中华造船（集团）有限公司\n\n5\n\n武昌船舶重工集团有限公司\n\n6\n\n广船国际有限公司\n\n7\n\n上海外高桥造船有限公司\n\n8\n\n中船澄西船舶修造有限公司\n\n9\n\n中船动力（集团）有限公司\n\n10\n\n武汉船用机械有限责任公司\n\n11\n\n中国船舶集团汾西重工有限责任公司\n\n12\n\n重庆前卫科技集团有限公司\n\n13\n\n中船九江海洋装备（集团）有限公司\n\n14\n\n中国舰船研究院\n\n15\n\n中国船舶集团有限公司系统工程研究院\n\n16\n\n中国船舶集团有限公司第七〇一研究所\n\n17\n\n中国船舶集团有限公司第七〇二研究所\n\n18\n\n中国船舶集团有限公司第七〇三研究所\n\n19\n\n中国船舶集团有限公司第七〇四研究所\n\n20\n\n中国船舶集团有限公司第七〇五研究所\n\n21\n\n中国船舶集团有限公司第七〇七研究所\n\n22\n\n中国船舶集团有限公司第七〇八研究所\n\n23\n\n中国船舶集团有限公司第七一〇研究所\n\n24\n\n中国船舶集团有限公司第七一一研究所\n\n25\n\n中国船舶集团有限公司第七一二研究所\n\n26\n\n中国船舶集团有限公司第七一三研究所\n\n27\n\n中国船舶集团有限公司第七一五研究所\n\n28\n\n中国船舶集团有限公司第七一六研究所\n\n29\n\n中国船舶集团有限公司第七一七研究所\n\n30\n\n中国船舶集团有限公司第七一八研究所\n\n31\n\n中国船舶集团有限公司第七一九研究所\n\n32\n\n中国船舶集团有限公司第八研究院\n\n33\n\n中国船舶集团有限公司第七二五研究所\n\n34\n\n中国船舶集团有限公司第七二六研究所\n\n35\n\n中国船舶集团有限公司湖海试验中心\n\n36\n\n中国船舶集团有限公司综合技术经济研究院\n\n37\n\n上海船舶研究设计院\n\n38\n\n中国船舶集团有限公司第十一研究所\n\n39\n\n中船第九设计研究院工程有限公司\n\n40\n\n中船科技股份有限公司\n\n41\n\n中国船舶集团环境发展有限公司",
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2946,7 +2743,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -2975,7 +2772,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3004,7 +2801,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-21T14:51:23.670Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3033,7 +2830,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3062,7 +2859,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3091,7 +2888,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3120,7 +2917,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3149,7 +2946,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3178,7 +2975,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3207,7 +3004,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3236,7 +3033,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3265,7 +3062,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3294,7 +3091,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3323,7 +3120,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3352,7 +3149,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3381,7 +3178,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3410,7 +3207,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3439,7 +3236,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3468,7 +3265,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3497,7 +3294,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3526,7 +3323,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3555,7 +3352,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3584,7 +3381,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3613,7 +3410,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3621,7 +3418,7 @@
     {
       "id": "talk:xjh:c3b8fc31ffaf5b8b04475c369f93d2f2",
       "kind": "talk",
-      "title": "远景能源2027届秋季校园招聘宣讲会",
+      "title": "已发布(取消)\n远景能源2027届秋季校园招聘宣讲会",
       "company": "远景能源有限公司",
       "startAt": "2026-09-24T14:30:00+08:00",
       "endAt": null,
@@ -3640,9 +3437,9 @@
       "participants": [],
       "description": "远景能源2027届秋季校园招聘\n\n寻找梦想偏执狂，开创文明新繁荣\n\n一、项目介绍\n\n这是一个能源重塑产业、智能重构世界的时代；也是一个足以让年轻人把理想落到现实、把热爱写进未来的时代。这里是能源产业与“人工智能+”交汇的主战场；也是一个足够面向未来、足够贴近产业核心、承载年轻人野心与理想的平台。\n\n你进入的不只是一家公司，而是一场新工业文明的前沿实践；你选择的不只是一份工作，而是一条与零碳转型、智能创新同频共振的成长赛道。\n\n我们期待你有敢为人先的信念，有直面难题不妥协的锋芒，有“明知不可为而为之”的偏执…期待你愿意扎进真实世界，回应时代命题，在关键处挺身而出，在无人区向前一步。远景，寻找梦想偏执狂\n\n二、招聘对象\n\n应届培训生：毕业时间在2027年1月至2027年12月，全日制本硕博\n\n*部分岗位接受2025年1月至2026年12月毕业生，具体以官网发布为准\n\n岗位类型：前沿技术、研发、产品、工艺、制造、供应链、质量管理、市场&解决方案、工程管理、综合类等\n\n所需专业：人工智能、电气、机械、控制自动化、航空航天、材料、化工、土木工程、工业工程、质量管理、商科、小语种等\n\n三、人才项目\n\n远景能源定岗培训生项目是为渴望在特定岗位上深耕发展的同学量身打造的职业发展计划，更关注精准匹配、专项发展。通过与行业专家共事，你将通过7:2:1全阶段培养与牵引，成长为远景的业务专家。\n\n远景能源轮岗培训生项目（EGT）是面向2027届毕业生量身打造的轮岗培训生项目，旨在为远景能源培养具备全局视野和系统思维的经营性人才。远景将为你打造1-2年轮岗培养，你将快速实现综合能力提升、多元化职业生涯发展，逐步成长为远景多面手，未来的核心骨干及管理人员。\n\n四、简历投递\n\nPC端：远景能源校园招聘官网：https://envision-career.com\n\n更多项目介绍欢迎关注：远景能源2027届全球校园招聘正式启动！\n\n手机端：请扫描右侧二维码\n\n关于远景能源\n\n远景能源是专注于智能风电、智慧储能系统及绿氢解决方案的全球领先绿色科技企业。业务遍及中国、德国、法国、英国、西班牙、丹麦、阿联酋、印度、越南、印度尼西亚、澳大利亚、美国、日本、墨西哥、阿根廷、智利等国家和地区，在全球设立超20个运营总部和研发中心、拥有超60个制造基地。\n\n作为低碳转型先行者，远景连续两年获得EcoVadis“金牌”评级；于2024年成为首家获得CDP最高评级的中国新能源企业，入选《时代》2024年“全球100家最具影响力企业”。2025年登上《麻省理工科技评论》“全球十大气候科技创新企业”榜单，荣获2025年度路透社“AI助力可持续发展卓越奖”。\n\n凭借“为人类的可持续未来解决挑战”的使命愿景、全球化的企业运营策略、多元化的业务布局以及独特的企业文化，远景在全球十个国家及地区，成功获得Great Place To Work®“卓越职场”认证及“最佳职场”榜单。分别于2022年、2024年、2025年登上福布斯中国最佳雇主榜单。\n\n在风电领域，远景持续引领风电产业发展和变革。截至目前，远景全球风机累计装机突破100GW，订单量连续四年全球第一。通过技术创新持续提高风电利用效率，降低风电度电成本，让充足、低价、安全的清洁能源走近人们的生活。\n\n在储能领域，远景是全球领先的储能系统供应商，依托高品质储能电芯、全栈自研智慧储能系统与全球化项目交付能力，为新型电力系统提供安全、高效、智能的储能支撑。\n\n在氢能领域，远景提供基于绿色氢氨的全栈零碳解决方案，正在内蒙古赤峰打造全球最大152万吨绿色氢氨项目。\n\n在新电网领域，远景依托“远景天枢”能源大模型与“远景天机”气象大模型，构建覆盖发电、电网、负荷与储能全链条的AI产品体系，实现“源网荷储”动态协同与智能调度，推动新能源电力系统迈向更高水平的安全、高效与智能化。\n\n作为物理人工智能领导者，远景持续深化AI与能源技术融合，推动未来以新能源为主体的电力系统向“自平衡、自交易、自进化”的时代演进，打造AI电力系统赋能的“绿色新工业”，为构建清洁低碳、安全高效的现代能源体系提供系统解决方案。\n\n更多信息，欢迎访问远景科技集团校招官网：https://envision-career.com\n\n欢迎关注远景科技集团招聘公众号",
       "detailStatus": "ok",
-      "availability": "listed",
+      "availability": "cancelled",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3671,7 +3468,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3700,7 +3497,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3729,7 +3526,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3758,7 +3555,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new",
         "time"
@@ -3793,7 +3590,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3822,7 +3619,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3851,7 +3648,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3880,7 +3677,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3909,7 +3706,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3938,7 +3735,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3967,7 +3764,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -3996,7 +3793,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4025,7 +3822,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4054,7 +3851,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4083,7 +3880,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4112,7 +3909,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4141,7 +3938,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4170,7 +3967,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4199,7 +3996,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-21T14:51:23.670Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4228,7 +4025,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4257,7 +4054,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4286,7 +4083,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4315,7 +4112,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-21T14:51:23.670Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4344,7 +4141,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4373,7 +4170,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4402,7 +4199,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-21T14:51:23.670Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4431,7 +4228,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4460,7 +4257,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]
@@ -4489,7 +4286,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-21T14:51:23.670Z",
+      "lastSeenAt": "2026-09-22T13:07:45.341Z",
       "changes": [
         "new"
       ]

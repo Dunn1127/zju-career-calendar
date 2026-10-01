@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T14:37:54.083Z",
-  "lastSuccessAt": "2026-09-30T14:37:54.083Z",
+  "generatedAt": "2026-10-01T15:06:52.442Z",
+  "lastSuccessAt": "2026-10-01T15:06:52.442Z",
   "window": {
-    "start": "2026-09-25",
-    "end": "2026-10-15"
+    "start": "2026-09-26",
+    "end": "2026-10-16"
   },
   "source": {
     "url": "https://www.career.zju.edu.cn/",
@@ -40,7 +40,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -69,7 +69,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -98,7 +98,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new",
         "time"
@@ -133,7 +133,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -162,7 +162,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -191,7 +191,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -220,7 +220,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -249,7 +249,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -278,7 +278,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -307,7 +307,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -336,7 +336,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -365,7 +365,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -394,7 +394,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -423,7 +423,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -452,7 +452,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -481,7 +481,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-20T12:52:54.685Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -510,7 +510,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -539,7 +539,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -568,7 +568,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-21T14:51:23.670Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -597,7 +597,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -626,7 +626,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -655,7 +655,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -684,7 +684,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-21T14:51:23.670Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -713,7 +713,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -742,7 +742,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -771,7 +771,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-21T14:51:23.670Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -800,7 +800,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -829,7 +829,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -858,7 +858,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -887,7 +887,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-18T11:34:18.246Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -916,7 +916,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -945,7 +945,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -974,7 +974,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1003,7 +1003,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1032,7 +1032,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1061,7 +1061,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1090,7 +1090,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1119,7 +1119,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1148,7 +1148,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1177,7 +1177,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1206,7 +1206,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1235,7 +1235,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1264,7 +1264,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1293,7 +1293,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1322,7 +1322,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:13:59.431Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1351,7 +1351,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:15:48.923Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1380,7 +1380,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:15:48.923Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1409,7 +1409,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:15:48.923Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1438,7 +1438,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:15:48.923Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1467,7 +1467,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1496,7 +1496,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:15:48.923Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1525,7 +1525,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:15:48.923Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1554,7 +1554,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1583,7 +1583,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:15:48.923Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1612,7 +1612,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:15:48.923Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1641,7 +1641,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:15:48.923Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1670,7 +1670,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1699,7 +1699,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-09-25T13:15:48.923Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1728,7 +1728,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-09-25T13:15:48.923Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1757,7 +1757,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1786,7 +1786,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-26T12:40:38.570Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1815,7 +1815,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-26T12:40:38.570Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1844,7 +1844,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-26T12:40:38.570Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1873,7 +1873,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-09-26T12:40:38.570Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1902,7 +1902,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-26T12:40:38.570Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1931,7 +1931,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1960,7 +1960,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-26T12:40:38.570Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -1989,7 +1989,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-26T12:40:38.570Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2018,7 +2018,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-26T12:40:38.570Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2047,7 +2047,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-26T12:40:38.570Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2076,7 +2076,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-26T12:40:38.570Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2105,7 +2105,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2134,7 +2134,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2163,7 +2163,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2192,7 +2192,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2221,7 +2221,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2250,7 +2250,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2279,7 +2279,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2308,7 +2308,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2337,7 +2337,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2366,7 +2366,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2395,7 +2395,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2424,7 +2424,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2453,7 +2453,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2482,7 +2482,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2511,7 +2511,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2540,7 +2540,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2569,7 +2569,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2598,7 +2598,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:32:33.962Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2627,7 +2627,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2656,7 +2656,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2685,7 +2685,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2714,7 +2714,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2743,7 +2743,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2772,7 +2772,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2801,7 +2801,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2830,7 +2830,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2859,7 +2859,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2888,7 +2888,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2917,7 +2917,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2946,7 +2946,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -2975,7 +2975,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3004,7 +3004,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3033,7 +3033,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3062,7 +3062,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3091,7 +3091,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3120,7 +3120,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3149,7 +3149,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3178,7 +3178,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3207,7 +3207,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3236,7 +3236,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3265,7 +3265,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3294,7 +3294,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3323,7 +3323,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:28:07.124Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3352,7 +3352,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3381,7 +3381,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3410,7 +3410,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3439,7 +3439,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3468,7 +3468,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3497,7 +3497,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3526,7 +3526,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3555,7 +3555,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3584,7 +3584,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3613,7 +3613,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3642,7 +3642,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3671,7 +3671,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3700,7 +3700,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3729,7 +3729,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]
@@ -3758,7 +3758,413 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:37:54.083Z",
-      "lastSeenAt": "2026-09-30T14:37:54.083Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:aa27b233f6b662ebddd48cb17b9b45c5",
+      "kind": "talk",
+      "title": "中国铁路上海局集团有限公司",
+      "company": "中国铁路上海局集团有限公司",
+      "startAt": "2026-10-16T09:00:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "紫金港校区尧坤楼215报告厅",
+      "campus": "紫金港校区",
+      "building": "紫金港校区尧坤楼215",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=aa27b233f6b662ebddd48cb17b9b45c5",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "企业概况：中国铁路上海局集团有限公司是国铁集团下属的特大型国有运输企业，主要负责安徽、江苏、浙江和上海三省一市范围的铁路建设运营管理。目前集团公司用工总量15.5万人，所属单位和控股合资铁路公司100多家，实际运营管理的铁路资产达1.7万亿元。长三角区域建成了全国最现代化的铁路网和最发达的高铁网，资产总量、营业里程、高铁里程、动车组配属、旅客发送量、铁路建设投资等关键指标均位居全路第一，2026年运输总收入预计1486.5亿元。\n\n上铁人坚持“创新实干、精益卓越”精神，以产品卓越、品牌卓著、创新领先、治理现代为目标，以打造“五个强局”为引领，深入实施“人才强局”战略，努力构筑全路领先、区域一流的创新人才“上铁高地”，在建设世界一流铁路企业、实现铁路现代化的新征程上谱写上铁篇章！\n\n招聘专业：交通运输类、机械动力类、土木工程类、电气工程类、自动化类、通信工程类等。\n\n福利保障\n\n基本保障：“五险一金”，即养老保险、医疗保险、生育保险、失业保险、工伤保险和住房公积金。\n\n额外福利：“一险两金”和“三补”，即补充医疗保险、补充住房公积金、企业年金，供养直系亲属企业补充医疗补助、年度小额医药报销补助、购房货币化补贴。\n\n招聘网站：中国铁路人才招聘网\n\n网址：https://rczp.china-railway.com.cn",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:3116b1ea6f05b6366c39182bcee9bf99",
+      "kind": "talk",
+      "title": "天岳先进2027届秋季校园招聘专场招聘会",
+      "company": "上海天岳半导体材料有限公司",
+      "startAt": "2026-10-16T10:00:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "玉泉校区永谦活动中心二楼排练厅",
+      "campus": "玉泉校区",
+      "building": "玉泉校区永谦活动中心二",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=3116b1ea6f05b6366c39182bcee9bf99",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:5bf95384fa1ba7c69cd9d3f9e1aa89a7",
+      "kind": "talk",
+      "title": "沐曦集成电路（上海）股份有限公司",
+      "company": "沐曦集成电路（上海）股份有限公司",
+      "startAt": "2026-10-16T10:00:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "玉泉永谦活动中心二楼报告厅",
+      "campus": "玉泉校区",
+      "building": "玉泉永谦活动中心二",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=5bf95384fa1ba7c69cd9d3f9e1aa89a7",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:f237e1f3bbe1aea35d66aa631b6298f9",
+      "kind": "talk",
+      "title": "珠海万达商管|银翼投资2027届校园招聘",
+      "company": "万达商业管理集团有限公司杭州分公司",
+      "startAt": "2026-10-16T13:30:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "紫金港校区尧坤楼215报告厅",
+      "campus": "紫金港校区",
+      "building": "紫金港校区尧坤楼215",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=f237e1f3bbe1aea35d66aa631b6298f9",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "一、公司简介\n\n珠海万达商业管理集团成立于2021年3月，总部位于中国横琴粤澳深度合作区，是大连新达盟商业管理有限公司控股的全球领先商业不动产轻资产运营管理平台。截止2025年12月31日，作为中国境内529座已开业万达广场的独家运营方，集团以7,315万㎡的管理面积稳居全球商业不动产运营领域首位，拥有员工约4万名。珠海万达商业管理集团核心业务涵盖全周期商业管理、精细化物业管理及多元化增值服务，形成从项目选址、设计改造到招商运营的一体化解决方案。面向未来，集团将持续深化轻资产运营模式，依托数字化与智能化技术优化管理效率，加速储备项目落地，巩固行业龙头地位。同时，以可持续发展为导向，推动商业生态与城市发展深度融合，致力于成为全球商业运营领域的创新引领者与社会责任践行标杆。\n\n二、招聘对象\n\n2027届应届毕业生\n\n毕业时间：2026年9月—2027年8月\n\n学历要求：全日制本科及以上学历\n\n三、招聘项目\n\n万新生\n\n珠海万达商管校招项目，面向国内外重点院校，本科及以上优秀应届毕业生。招聘职位覆盖招商、营运、市场、工程物业、财务、人力等方向。万新生将扎根万达广场一线，在真实的商业运营场景中夯实业务基本功，快速成长为商业人才。学历要求：全日制本科及以上学历\n\n领将生\n\n珠海万达商管校招顶尖人才项目，面向国内外重点院校，硕士及以上优秀应届毕业生。招聘职位以招商、营运、市场等业务岗为主。领将生拥有更高起点的学习资源、更快速的晋升通道，将以更短周期成长为高层管理者，成为商业领域的领军人才。学历要求：全日制硕士及以上学历\n\n四、招聘职位\n\n七大方向任你选：招商岗、营运岗、市场岗、工程物业岗、人力岗、财务岗、成本采购岗\n\n（具体职位详细介绍请登录校招官网查看）\n\n五、工作地点-全国可选\n\n全国500+座万达广场，覆盖230+城市，提供广阔的地域选择空间。校招职位一年内共有3次投递机会，志愿有排序。投递简历时可选择意向城市，单个职位如有3个及以上工作城市可选，最多可选3个意向城市。依托成熟通畅的内部调动机制，无论向往一线城市还是眷恋家乡，都能在此安放梦想。\n\n六、我们期待的你\n\n热爱商业，热爱生活：对商业有浓厚兴趣，喜欢商场里的烟火气，对生活品质有追求。\n\n自驱坚韧，眼里有光：对目标有冲劲，敢挑战敢作为；积极主动，心态乐观。\n\n追求极致，数据敏感：注重细节与品质，精益求精；具备数据敏感度、逻辑思维与AI应用能力。\n\n真诚利他，沉稳务实：为人真诚，有双赢思维，乐于协作；做事沉稳坚韧，对目标长期坚持。\n\n七、我们为你提供\n\n极具发展空间的事业平台：全国商业领航者，依托500+在营项目，提供灵活调派机会，打破地域与业态限制。\n\n极具竞争力的福利待遇：行业领先薪酬、足额缴纳六险一金、免费三餐、校招生住房补贴、法定假期等全面福利保障。\n\n极具成长性的培养体系：双导师带教、一线实战轮岗、清晰晋升路径，3-6年可独当一面，最快5-6年成长为店总。\n\n珠海万达商管校园招聘官网：https://app.mokahr.com/campus-recruitment/wandacm/164049?locale=zh-CN#/",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:f59024866ab36e1afd82485f3f3db281",
+      "kind": "talk",
+      "title": "TP-Link联洲2027届秋季校园招聘宣讲会",
+      "company": "深圳市联洲国际技术有限公司",
+      "startAt": "2026-10-16T14:30:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "紫金港校区尧坤楼222传化厅",
+      "campus": "紫金港校区",
+      "building": "紫金港校区尧坤楼222",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=f59024866ab36e1afd82485f3f3db281",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "TP-Link联洲2027届秋季校园招聘\n\n一、 关于TP-Link联洲\n\nTP-Link是涉足消费网络、消费电子、商用网络、商用安防、运营商网络、软件和云服务等领域的全球性跨国集团，致力于为全球170多个国家和地区、累计超20亿用户提供高品质、高可靠、高性能的产品体验。\n\nTP-Link始终坚持自主研发、自主制造、自主营销，在全球设立4大研发中心，并在中国、越南、巴西布局全球制造和供应体系，拥有42家海外公司，进驻超19万家零售门店和700家电商平台，常年稳居WLAN产品出货量全球第一。\n\nTP-Link于2008年成立了深圳市联洲国际技术有限公司（TP-Link联洲）。如今，TP-Link联洲作为集团重要的研发、制造和产品设计中心之一，秉承钻研细节、快速响应、求真务实、专注求强的实干作风，专注于技术的创新、领先与可靠，不断打造让用户满意的产品与体验。\n\n二、 2027届秋季校园招聘\n\n1.招募对象\n\n2027.1.1-2027.7.31期间毕业于国内大陆高校的应届毕业生\n\n2026.8.1-2027.7.31期间毕业于港澳台及海外高校的留学生\n\n2.招聘岗位\n\n研发类、产品类、营销类、制造类、供应链类、人力资源类、行政类、财务类、设计类\n\n详见https://join.tplinkglobal.com/campus\n\n*搜索关键词，直达意向岗位\n\n3.招聘流程\n\n网申→简历筛选→笔试→面试2-3轮→心理测评→座谈/HR面→Offer→签订就业协议\n\n4.招聘须知\n\n【投递截止时间】2026年8月14日开启网申投递通道，招满即止\n\n【面试形式】线下/线上面试\n\n【内推码】VF3A9\n\n5.网申通道\n\n【PC端】https://join.tplinkglobal.com/campus\n\n【移动端】“TP-Link联洲招聘”微信公众号—校园招聘—简历投递\n\n*秋季校园招聘仅可投递一个岗位\n\n三、 加入TP-Link联洲\n\n1.行业高水平薪资、六险一金全覆盖、丰厚的福利待遇、节假日特别惊喜\n\n2.免费通勤班车，出行超便利；独立健身房+年度体检，为你筑牢健康保障\n\n3.完善的培训体系，一对一导师带教，助你丝滑landing\n\n4.双通道人才发展路径，多赛道、多机遇任你选\n\n5.坚守实干初心，践行务实作风，专注创新突破，与你共赴成长\n\n四、 了解更多\n\n1.邮件咨询：\n\n2.公众号后台留言：“TP-Link联洲招聘”微信公众号\n\n3. QQ群：加入浙江大学官方QQ交流群（群号：1063579510），HR为你在线答疑",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:bc7301a1c0c15df4ea82611b747f33f3",
+      "kind": "talk",
+      "title": "中国电器科学研究院股份有限公司 2027届校园招聘宣讲会",
+      "company": "中国电器科学研究院股份有限公司",
+      "startAt": "2026-10-16T14:30:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "玉泉校区永谦活动中心二楼排练厅",
+      "campus": "玉泉校区",
+      "building": "玉泉校区永谦活动中心二",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=bc7301a1c0c15df4ea82611b747f33f3",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:c092a3a8908654c332b25bca1469d276",
+      "kind": "talk",
+      "title": "浙商银行2027校园招聘专场宣讲会",
+      "company": "浙商银行股份有限公司",
+      "startAt": "2026-10-16T15:00:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "紫金港国际会议中心138室",
+      "campus": "紫金港校区",
+      "building": "紫金港国际会议中心138",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=c092a3a8908654c332b25bca1469d276",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "浙商银行2027校园招聘启事\n\n浙商银行股份有限公司（简称“浙商银行”）是十二家全国性股份制商业银行之一，于2004年8月18日正式开业，总部设在浙江杭州，系“A+H”上市银行、国内系统重要性银行。目前已在全国22个省（自治区，直辖市）及香港特别行政区，设立了377家分支机构，实现了对浙江大本营、长三角、粤港澳大湾区等重点区域的有效覆盖，旗下有浙银金租、浙银理财两家子公司。在英国《银行家》(The Banker)杂志“2026年全球银行1000强”榜单中位列85位。中诚信国际给予浙商银行金融机构评级中最高等级AAA主体信用评级，标普和穆迪给予浙商银行“投资级”国际评级。\n\n浙商银行锚定“一流的商业银行”发展愿景，始终坚持以全面加强党的领导为根本保证，以深耕浙江、服务实体为落脚点，以改革创新、完善治理为基本路径，以防范风险、安全发展为底线要求，深入践行“四行”战略路径，着力推进“1155”经营策略，持续打造特色竞争优势，系统夯实稳健发展根基，全面开启高质量发展新征程。\n\n浙商银行深入贯彻“人才强行”战略路径，针对大学生人才从“选、用、育、励”四个维度制定了大学生培养“星耀计划”，设置全周期培养发展路径，加快优秀年轻骨干选拔任用，为青年员工施展才华提供广阔的发展空间。\n\n浙商银行秉承以人为本和市场化原则，提供具有竞争力的薪酬水平和福利待遇；打造多元化的福利体系，组织年度员工体检、疗休养，不断完善员工的福利保障；助力员工价值绽放，搭建内部公开竞聘、总分行双向交流、内训师等平台，为员工提供自我展示舞台；组织开展丰富的业余兴趣小组、公益支教与志愿服务，全方位传递浙银人文关怀。\n\n一、招聘对象及要求\n\n（一）境内外高校2026、2027届本科及以上学历毕业生：\n\n1.境内院校学生：2026年1月至2027年7月期间毕业；\n\n2.境外院校学生：2025年1月至2027年7月期间毕业。\n\n注：以上毕业期间以最高学历毕业证书为准。\n\n（二）所有毕业生须为最高学历毕业后首次就业，且在上述时间前取得相应学历学位证书或教育部留学服务中心学历学位认证书。\n\n二、招聘基本条件\n\n（一）遵纪守法，诚信负责，勤奋务实；\n\n（二）身体健康、品貌端正，具有良好的心理素质和抗压能力；\n\n（三）具有较强的责任意识、团队合作精神及良好的沟通、协同能力；\n\n（四）成绩优良，所学专业与银行业务和岗位需求相关；\n\n（五）符合浙商银行亲属回避要求。\n\n三、招聘岗位及人数\n\n（一）“CZ星计划”岗位\n\n总行CZ星、分行CZ星（定向北京、杭州、上海、南京、广州、宁波分行）。\n\n“CZ星计划”采取高标准准入、重资源培养、强政策激励、严要求约束、优路径成长的培养与管理原则，采取“标准化入职培训+三年总分支行联合培养+两年潜才跟踪培养”的模式，培养方向是尽快成为总行二级部门或分行中层级别的经营管理人才。\n\n（二）总行岗位\n\n总行岗位享受大学生专项培养政策，通过差异化的基层岗位锻炼路径，快速熟悉我行情况，培养职业习惯，完成角色转换；入职三年内享受专项晋升政策，培养期满后综合鉴定考核评定结果为优秀的人员将大幅度提升工资档次。\n\n1.总行综合培养岗位\n\n培养方向是尽快成为总行储备干部及契合战略发展方向的技术、业务骨干人才，采用“标准化入职培训+一年基层岗位锻炼+两年定岗培养+两年潜才跟踪培养”的模式，其中岗位锻炼结束后分配到总行相应部室工作。\n\n2.总行定向派驻岗位（定向绍兴、温州、台州、嘉兴、金华、湖州、衢州、丽水、舟山分行）\n\n入职后将派驻到分行工作（派驻期间保留总行编制）， 派驻期满三年后通过双选机制分配至总行或派驻分行工作。\n\n3.总行科技类岗位\n\n面向AI应用研发类、AI算法类、智能数据类、智能运维类等方向。\n\n（三）专营机构、分支机构及子公司岗位\n\n1.专营机构及子公司：资金营运中心、浙银金租、浙银理财。\n\n2.境内分行：北京分行、杭州分行、上海分行、南京分行、广州分行、宁波分行、济南分行、深圳分行、苏州分行、合肥分行、成都分行、西安分行、重庆分行、青岛分行、武汉分行、天津分行、郑州分行、长沙分行、南昌分行、沈阳分行、兰州分行、呼和浩特分行、贵阳分行、太原分行、福州分行、南宁分行、绍兴分行、温州分行、台州分行、嘉兴分行、金华分行、湖州分行、衢州分行、丽水分行、舟山分行。\n\n3.境外分行：香港分行。\n\n四、招聘流程及时间安排\n\n简历投递：9月起\n\n在线测评：网申后3日内完成\n\n校园宣讲：9-10月\n\n笔试、面试：10-11月\n\n体检、录用：11-12月\n\n五、网申方式\n\n（一）浙商银行招聘官方网站\n\nhttps://zp.czbank.com.cn -“校园招聘”\n\n（二）“浙商银行”微信公众平台\n\n“招聘&服务”-“校园招聘”\n\n（三）浙商银行APP\n\n首页搜索“招聘”-“校园招聘”\n\n六、注意事项\n\n（一）所有个人信息必须真实无误，如有虚假信息，您将被取消应聘资格。\n\n（二）各机构具体安排及重要通知请关注招聘门户“消息提醒”、“最新动态”、“浙商银行”微信服务号（需关注并绑定个人微信）、95527手机短信、电子邮件（请确保简历上预留联系方式的准确性）等渠道。\n\n（三）我行招聘不收取任何费用。\n\n（四）各机构咨询方式详见招聘官网-“联系我们”。\n\n（工作日8:30-11:30，14:00-17:30）\n\n（五）应聘者只能投递一个意向岗位。如有其他意向岗位，请在网申简历“业务专长及承诺”-“是否具有下列情况”项下的“除了当前应聘志愿，当前发布职位中是否还有其他意向”栏中选择“是”，并依次补充填写其他岗位，我行将统筹考量并视情况进行调剂。",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:79d3b6b572399ee09f8bd94e6eed7a9f",
+      "kind": "talk",
+      "title": "湖南能源集团有限公司2027届秋季校园招聘",
+      "company": "湖南能源集团有限公司",
+      "startAt": "2026-10-16T15:00:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "紫金港西区尧坤楼201室",
+      "campus": "紫金港校区",
+      "building": "紫金港西区尧坤楼201",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=79d3b6b572399ee09f8bd94e6eed7a9f",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "湖南能源集团\n\n2027届校园招聘公告\n\n湖南能源集团注册资本300亿元，定位为湖南省综合性能源保障主平台和全省能源战略实施主体。在省委、省政府统筹部署下，落实全省能源发展战略，承担全省能源保供功能性任务，落实省内能源资源开发任务，承接重大能源项目投资建设，代表湖南省开展省内外重大能源项目合作。致力于成为湖南能源安全保障支撑者、新型能源体系建设引领者、绿色低碳创新发展先行者。\n\n集团主营业务包括能源、战略性新兴产业、产业投资及金融服务三大主业，以及与主业协同的设计咨询、资产管理、能建矿建等产业。\n\n能源产业为集团核心主业，已构建起“风光水火储气煤”多能互补格局，基本形成了集能源规划设计、投资建设、运营维护、能源交易、储能应用、能源大数据、综合能源服务于一体的能源全产业链。\n\n截至2026年1月，集团拥有全资、控股企业150家，包括上市公司2家，国家专精特新“小巨人”企业4家、国家级创新平台5个、省级专精特新企业12家、高新技术企业40家、省级创新平台44个。员工3.2万人，资产规模、盈利能力等多项指标在省属监管企业排名前列。\n\n一、招聘岗位及要求\n\n本次校园招聘人数共108人。具体招聘单位、岗位、人数、条件详见附件1《湖南能源集团2027届校园招聘岗位需求表》。\n\n二、基本条件\n\n（一）学历要求：国内高校毕业生须在2026年12月1日至2027年7月31日之间取得国家认可的毕业证和学位证，国外高校毕业生须在2026年10月1日至2027年7月31日之间毕业并按期取得教育部留学服务中心出具的国外学历学位认证书。\n\n（二）年龄要求: 原则上，本科生不超过25周岁，硕士研究生不超过28周岁，博士研究生不超过33周岁。计算年龄截止时间为2027年7月31日。\n\n（三）其他要求：具备良好政治素质和道德品质，具有较强的事业心和责任感，无违纪违法行为。品学兼优，一贯表现良好。具备应聘岗位所必需的专业知识和良好的学习能力、理解沟通能力、创新能力以及团队合作精神。具备良好的心理素质，身体健康。\n\n三、招聘流程\n\n报名、资格审查、笔试、面试、考察与体检、公示、录用。\n\n（一）报名\n\n1.报名时间：2026年9月18日—10月18日17:00。\n\n2.报名方式：采用网上报名。应聘人员通过湖南能源集团有限公司官方网站（https://www.hnenergy.cn/）、前程无忧（https://www.51job.com/changsha）、湘聚国企（https://www.hnxiangpin.com）、湖南能源集团有限公司公众号等渠道查看招聘公告，前往集团校园招聘官网（http://campus.51job.com/hnnyxz2027）进行报名，每人限投递1个岗位，请确定投递岗位再进行报名。\n\n（集团校园招聘报名二维码）\n\n3.报名材料要求：\n\n（1）个人有效身份证；\n\n（2）所有高等教育阶段的学历、学位证书；\n\n（3）国内学历应上传有效期内含二维码验证的教育部学历证书电子注册备案表PDF文件，国外学历需上传教育部留学服务中心出具的认证报告；\n\n（4）2027届高校毕业生未取得学历学位证书的，须提交学籍在线验证报告（境外院校毕业生提供在读证明）；\n\n（5）湖南能源集团应聘人员登记表（附件3）；\n\n（6）其他材料：近期1寸彩色证件电子照片、职称、资格证书、获奖证书、发表的论文资料等。\n\n（二）资格审查\n\n按照资格条件择优进行资格审查。原则上招聘计划数与资格审查合格人数比不低于1:3，若达不到1:3，取消招聘岗位或相应递减该岗位的招聘人数。通过资格审查的人员，以短信、邮件等方式通知参加笔试，未通过资格审查的，将不另行通知。\n\n（三）笔试\n\n1.笔试时间及具体事项另行通知。\n\n2.采取线上笔试方式。笔试侧重考察综合素质和文字能力，按照笔试成绩从高到低排序进入面试，原则上按照招聘计划数不低于1:3确定入围初试人选（入围最低分数同分者一同入围），若达不到1:3，取消招聘岗位或相应递减该岗位的招聘人数。入围初试人选须通过线上心理测评。\n\n（四）面试\n\n第一轮为AI面试，侧重考察综合表达、逻辑思维、辩证思维、组织协调、抗压能力等，面试成绩从高至低进行排序，原则上招聘计划数与进入第二轮面试人数比不低于1:2（入围最低分数同分者一同入围）；达不到1:2的,取消招聘岗位或相应递减该岗位的招聘人数。第二轮为线下面试，侧重考察专业能力和综合素质，面试成绩从高至低进行排序，按照招聘计划数1:1的比例确定背景调查人员名单和体检名单。\n\n（五）考察与体检\n\n考察包含背景调查与人事档案审核。体检在指定医院进行，患有影响履行岗位职责疾病的，取消录用资格。体检的标准按集团相关规定执行。未参加体检、考察或体检、考察不合格者，不能进入下一环节。集团可根据第二轮成绩排名安排递补，递补如无合适人选则取消该岗位招聘计划。\n\n（六）公示\n\n考察与体检结束后，拟录用人员报集团党委会议讨论决定。对拟录用人员进行为期5个工作日的公示。公示期满无异议的，按规定办理相关手续；公示期内反映的问题经查实影响录用的，取消其录用资格。\n\n（七）录用\n\n拟录用人员办理入职手续，与用人单位签订5年期劳动合同（其中试用期6个月）。\n\n四、薪酬和绩效考核\n\n各岗位薪资标准按公告所示并结合用人单位薪酬管理等相关办法执行。\n\n五、其他事项\n\n1.资格审查贯穿整个招聘过程，应聘人员应对本人填报的信息、提供资料的真实、准确性负责。凡应聘人员存在相关信息、资料、学历、履历、人事档案等有不真实情况的，取消录用或试用资格，按成绩排名进行替补录用。应聘人员个人资料仅应用于此次公开招聘，不公开、不退还。\n\n2.应聘人员须在招聘期间保持本人手机畅通。对已通知却未在规定时间内参加的，视为自动放弃。凡因应聘人员通信不畅通造成的相应后果，概由应聘人员承担。\n\n3.应聘人员一经提交报名，视为已知悉并认同本公告全部内容。\n\n4.招聘过程中如发现应聘人员有考试舞弊等行为，一经查实，立即取消应聘资格，并追究相关责任。\n\n5.本次招聘不收取任何费用、不授权任何机构进行培训，不下发、不印制、不指定任何考试资料，请应聘人员提高警惕，谨防受骗。\n\n6.校园招聘人员年龄计算的截止日期为2027年7月31日。\n\n7.集团有权根据岗位需求变化及报名情况等因素，调整、取消或终止个别岗位的招聘工作，并对本次招聘享有最终解释权。\n\n六、联系方式\n\n1.咨询电话：\n\n报名技术咨询（前程无忧）：（转144）；\n\n湖南能源集团有限公司：；\n\n相关子企业联系方式详见《湖南能源集团2027届校园招聘岗位需求表》\n\n2.咨询时间：工作日8：30-12：00、14：00-17：00。\n\n3.集团地址：湖南省长沙市岳麓区含浦北路999号。\n\n附件：1.湖南能源集团2027届校园招聘岗位需求表\n\n2.湖南能源集团子企业简介\n\n3.湖南能源集团应聘人员登记表\n\n（附件下载二维码）\n\n湖南能源集团有限公司\n\n2026年9月18日",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:6311499e5a8f5f8d09c8de4717cfd9a9",
+      "kind": "talk",
+      "title": "炎魂网络2027届秋季校园招聘",
+      "company": "杭州炎魂网络科技有限公司",
+      "startAt": "2026-10-16T16:00:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "玉泉永谦活动中心二楼报告厅",
+      "campus": "玉泉校区",
+      "building": "玉泉永谦活动中心二",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=6311499e5a8f5f8d09c8de4717cfd9a9",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "炎魂网络2027届秋季校园招聘\n\n一、公司介绍\n\n炎魂网络是立足杭州、面向全球用户、研运一体化的综合性游戏公司，成立以来一直专注于精品原创游戏的研发与推广运营。核心产品《忍者必须死3》自上线以来收获超一亿玩家的下载，斩获了IMGA、金翎奖、金陀螺等众多奖项，并入围TapTap年度游戏大赏和App Store年度人气休闲游戏。 目前还有横版动作类、生活模拟类等多个原创项目正在打磨中，致力于持续打造更多“叫好又叫座”的精品原创游戏。\n\n二、招聘岗位\n\n游戏研发 游戏渲染 技术美术\n\n算法 AI应用开发 中台产品经理 游戏测试 测试开发 数仓开发\n\n前端开发 后端开发 移动端开发 游戏运维SRE 安全工程师\n\n更多岗位信息咨询\n\n三、面向对象\n\n27届及之后毕业，校招实习均有岗位\n\n四、福利相关\n\n1、薪酬激励，行业内具有竞争力的薪酬水平 保底15薪｜项目分红额外计算 六险一金｜补充商业医疗保险\n\n2、贴心关怀，健康升级路上为你保驾护航 零食饮料不限量｜节日定制礼包 各类补贴（租房/餐饮/打车/高温） 带薪假期｜年度体检\n\n3、精彩活动，找到与你志同道合的好伙伴 公司月度生日会｜年度旅游 部门内月度团建｜各类社团\n\n4、设备完善，带你解锁不一样的游戏公司 宽敞舒适的独栋大楼｜健身房｜淋浴间 三猫两狗的工作氛围｜图书馆｜游戏机\n\n五、宣讲彩蛋\n\n参与宣讲可以更多了解公司、项目、岗位详情，收获精美周边，简历通过筛选可直接免笔试-直达面试哦！\n\n点击尽快锁定宣讲席位：宣讲会入场券\n\n或者扫码：",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:f705dfa26cbb132696cb6686109e7935",
+      "kind": "talk",
+      "title": "【上海孛璞半导体】2027届校园招聘专场宣讲会",
+      "company": "上海孛璞半导体技术有限公司",
+      "startAt": "2026-10-16T18:00:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "玉泉永谦活动中心二楼报告厅",
+      "campus": "玉泉校区",
+      "building": "玉泉永谦活动中心二",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=f705dfa26cbb132696cb6686109e7935",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:389f1a9b97e8b8db91f71722c47a824e",
+      "kind": "talk",
+      "title": "海信集团2027届校园招聘宣讲会",
+      "company": "海信集团控股股份有限公司",
+      "startAt": "2026-10-16T18:30:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "永谦学生活动中心B108",
+      "campus": "校区待确认",
+      "building": "永谦学生活动中心B108",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=389f1a9b97e8b8db91f71722c47a824e",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "海信集团2027届校园招聘简章\n\n海信成立于1969年，是一家拥有57年历史的全球知名科技企业。旗下拥有海信视像、海信家电、三电控股、乾照光电、科林电气五家上市公司，拥有海信、东芝电视、容声、科龙、gorenje、ASKO 等多个品牌。2025年，海信保持稳健增长，全年营收 2244亿元，其中海外收入 1107亿元，同比增长11%，占整体营收49.3%。\n\n海信坚持“技术立企、稳健经营”的发展战略，聚焦用户需求持续推进产业转型升级，已构建起涵盖家电、半导体、智慧能源、激光、汽车电子、内容平台的六大核心产业，加快从“以产品为中心的硬件制造商”向“以用户为中心的智能生活服务伙伴”跃迁。海信智能家电产业依托深厚的技术积累及多品牌全品类优势，加速向高端化、智能化、场景化升级，全球市场地位领先。海信半导体、智慧能源、汽车电子等产业是海信瞄准全球产业发展新趋势，面向未来布局的重要战略板块和增长引擎，构筑起发展新优势。\n\n海信深耕全球化布局，在全球设有32个研发中心、41个工业园区和生产基地，设有65个海外公司和办事处，快速响应用户需求。海信以体育为桥梁深化与全球用户沟通，先后赞助欧洲杯、世界杯、世俱杯等7届世界顶级体育赛事，连续9年蝉联中国全球化品牌10强，海外自主品牌收入达到87%。\n\n海信始终坚持科技向善、商业向善，以长期主义践行ESG，已打造3座全球“灯塔工厂”、4家零碳工厂和20家国家级绿色工厂，将不晚于2026年实现运营碳达峰、不晚于2050年实现运营碳中和，五次入选《财富》中国 ESG 影响力榜，向着“建设世界一流企业，成就世界一流品牌”的目标加速前行。\n\n海信集团2027届校园招聘应聘指南\n\n一、招聘方向\n\n包括研发技术类、供应链及制造类、职能类及营销类等各序列岗位，涵盖绝大部分一级学科，涉及计算机、软件、数学、电子信息、通信、机械、制冷、暖通、材料、经济、管理、财务、营销、小语种等各类专业。\n\n二、招聘对象\n\n2027届全球高校应届毕业生\n\n2026年12月-2027年8月毕业的中国内地高校毕业生\n\n2026年1月-2027年8月毕业的中国港澳台及海外院校毕业生\n\n三、工作地点\n\n国内：主要包括青岛、顺德、江门、武汉、上海、天津、深圳、长沙、厦门、杭州、北京、扬州、香港等；\n\n海外（外派岗位）：覆盖北美、欧洲、中东非、中南美、东盟、亚太、印度等。\n\n四、薪酬福利\n\n强调为能力赋薪，提供完善的五险一金。入职后提供免费公寓、免费班车、交通补贴、住房补贴、节日礼品、生日礼物等各种福利。\n\n五、招聘流程\n\n招聘流程包括简历筛选、线上测评（研发技术类增设笔试）、AI面试、专业及综合面试等环节，顺利通过将进入Offer环节。\n\n在简历初筛通过后，我们会通过短信、邮件或电话方式通知您参加面试，请注意查收，保持通讯工具畅通。\n\n六、投递方式\n\n1.海信集团招聘官网：访问官网链接jobs.hisense.com，进入“校园招聘”版块了解岗位相关信息并投递。\n\n2.移动端投递：关注“海信集团招聘”公众号，点击“校园招聘”进行申请。（建议通过PC端进行，若通过移动端网申，需通过PC端登录补充完善简历信息）\n\n3.内推投递：找到身边的校园大使或海信内部员工即可获得内推机会（进入“海信集团招聘”微信公众号，在“个人中心”可查看内推码）。\n\n温馨提示：\n\n1.您只能投递一个职位且不支持更改，请慎重投递。如简历不匹配，我们会将您推荐到合适的职位，请放心投递。\n\n2.网申中的面试站点请就近选择，所选城市不影响线上面试。您可以通过个人中心查询应聘状态，另请密切关注邮件和短信，保持通讯工具畅通。\n\n3.如遇特殊情况无法正常投递的，可将个人简历及意向职位发送至海信校招邮箱：，校招期间消息量较大，还请耐心等候。\n\n备注说明：海信集团校园宣讲会将会通过线上空中宣讲和线下宣讲会的方式进行，届时将详细介绍海信集团的概况及招聘政策等。宣讲会信息请及时关注“海信集团招聘”公众号，还可关注全国各大高校就业信息网及海信集团招聘官网（jobs.hisense.com）。\n\n加入海信，一起来创造，你的可能信！",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:1719d8c9dcb832992666a03991b66693",
+      "kind": "talk",
+      "title": "芯恩（青岛）集成电路有限公司 2027届校园招聘",
+      "company": "芯恩（青岛）集成电路有限公司",
+      "startAt": "2026-10-16T18:30:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "紫金港校区尧坤楼222传化厅",
+      "campus": "紫金港校区",
+      "building": "紫金港校区尧坤楼222",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=1719d8c9dcb832992666a03991b66693",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "芯恩（青岛）集成电路有限公司\n\n2027届校园招聘简章\n\n公司简介\n\n芯恩（青岛）集成电路有限公司，于2018年4月18日成立。位于山东省青岛西海岸新区，公司具备雄厚的8英寸、12英寸晶圆集成电路产品的研发和生产能力，以及一站式服务能力。\n\n芯恩主要制程技术包括逻辑工艺、特色工艺与功率半导体工艺。逻辑工艺包含40nm以及全自研的X系列等平台，为客户提供差异化竞争力。在特色工艺领域有强大的研发能力和生产经验，聚焦BCD、HV等工艺技术，为客户提供高质量产品和制造服务。成熟的IGBT、SGT和Trench MOS等平台，已实现大规模量产，核心参数和工艺能力优秀，产品深受客户信赖，持续为客户提供优质服务。\n\n芯恩始终秉承“成就客户、正直诚信、追求卓越、奋斗不懈”的理念，不断研发和创新，多元且自主可控的工艺以及产品，矢志成为世界领先的集成电路制造企业，与客户共赢。每一颗芯片，都是创新的见证；每一次突破，都是未来全新的篇章！\n\n目标人群\n\n² 国(境)内高校：2027年1月1日-2027年12月31日毕业的本硕博毕业生\n\n² 国(境)外高校：2026年8月1日-2027年12月31日毕业的本硕博留学生\n\n招聘岗位\n\n岗位分类\n\n岗位名称\n\n需求专业\n\nOP技术类\n\n系统应用技术工程师\n\n机械工程、控制科学与工程、电气工程、电子科学与技术等相关专业\n\n工艺工程师\n\n电子科学与技术、物理学、化学、材料科学与工程（半导体金属类材料）、光学工程等相关专业\n\n工艺整合工程师\n\n电子科学与技术、物理学、集成电路、光学工程等相关专业\n\n良率工程师\n\n电子科学与技术、集成电路、物理学、化学、光学工程、统计学、数学等相关专业\n\n智能制造算法工程师\n\n数学（运筹学）、统计学、控制科学与工程、软件工程、电子科学与技术等相关专业\n\n智能制造工程师\n\n工业工程、智能制造工程、运筹学、电子科学与技术、机械工程、控制科学与工程、材料科学与工程、物流管理等理工类专业\n\n工业工程工程师\n\n工业工程\n\n工艺助理工程师\n\n电子科学与技术、材料科学与工程、物理学、化学、光学工程等相关专业\n\n设备运维工程师\n\n机械工程、控制科学与工程、电子科学与技术、自动化等相关专业\n\n智能制造助理工程师\n\n工业工程、数学、计算机、智能制造工程、管理类相关专业\n\n岗位分类\n\n岗位名称\n\n需求专业\n\n专项技术类\n\n电力工程师\n\n电气工程及其自动化、电气工程与智能控制、建筑电气与智能化等其他电气类相关专业\n\n暖通机械工程师\n\n建筑环境与能源应用工程、能源与动力工程等相关专业\n\n气化工程师\n\n电气工程及其自动化、机械电子工程、化学工程与技术等\n\n水务工程师\n\n环境科学与工程等相关专业\n\n岗位分类\n\n岗位名称\n\n需求专业\n\n研发类\n\n工艺研发工程师\n\n电子科学与技术、物理学、材料科学与工程、光学工程、化学等相关专业\n\n工艺整合研发工程师\n\n电子科学与技术、微电子科学与工程、集成电路（含EDA）、物理学、 材料科学与工程、光学工程等相关专业\n\n器件研发工程师\n\n电子科学与技术、集成电路（含EDA）、物理学（半导体相关）、材料科学与工程（半导体相关）等相关专业\n\n设计服务工程师\n\n微电子、模拟/数字集成电路、电子信息科学与技术等相关专业\n\n工艺设计套件工程师\n\n电子科学与技术、物理学、集成电路（含EDA）等相关专业\n\n良率工程师\n\n电子科学与技术、物理学、集成电路、材料科学与化学工程、光学工程、化学等相关专业\n\n产品工程师\n\n电子科学与技术、集成电路、物理学等相关专业\n\n失效分析工程师\n\n电子科学与技术等相关专业\n\n岗位分类\n\n岗位名称\n\n需求专业\n\nIT类\n\nIT开发工程师\n\n计算机科学与技术、自动化、软件工程等相关专业\n\n岗位分类\n\n岗位名称\n\n需求专业\n\n职能类\n\n原物料计划工程师\n\n物流与管理工程、应用经济学(国际贸易)等相关专业\n\n生产规划工程师\n\n工业工程\n\n薪酬福利\n\n² 工资补贴：基本工资、租房补贴、餐饮补贴……\n\n² 奖金激励：年终奖金、项目奖金、及时激励、上市股权……\n\n² 福利保障：五险一金、商业保险、年假、通勤班车、福利体检……\n\n发展培养\n\n² 芯锐训练营、双导师带教、技术任职、Team Leader训练营、技术大讲堂、CIT竞赛、线上学习平台……\n\n招聘流程\n\n网申→宣讲会→简历筛选→笔试→面试→人才测评→Offer发放→签约→入职\n\n投递方式\n\n² 移动端：关注【芯恩招聘】微信公众平台，扫码投递。\n\n² PC端：输入网址投递，https://siencampus.hotjob.cn 。\n\n问题咨询\n\n² 官方邮箱： 。\n\n智能化浪潮奔涌向前\n\n数字世界与物理世界加速融合\n\n每一次对未知的探索\n\n都可能成为改变世界的支点\n\n加入芯恩，穿越周期\n\n奔赴数智“芯”未来！",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:7a2e4c569ced4395d7e8fbe6fdcdd61f",
+      "kind": "talk",
+      "title": "TP-Link联洲2027届秋季校园招聘宣讲会",
+      "company": "深圳市联洲国际技术有限公司",
+      "startAt": "2026-10-16T19:00:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "玉泉校区永谦活动中心二楼排练厅",
+      "campus": "玉泉校区",
+      "building": "玉泉校区永谦活动中心二",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=7a2e4c569ced4395d7e8fbe6fdcdd61f",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "TP-Link联洲2027届秋季校园招聘\n\n一、 关于TP-Link联洲\n\nTP-Link是涉足消费网络、消费电子、商用网络、商用安防、运营商网络、软件和云服务等领域的全球性跨国集团，致力于为全球170多个国家和地区、累计超20亿用户提供高品质、高可靠、高性能的产品体验。\n\nTP-Link始终坚持自主研发、自主制造、自主营销，在全球设立4大研发中心，并在中国、越南、巴西布局全球制造和供应体系，拥有42家海外公司，进驻超19万家零售门店和700家电商平台，常年稳居WLAN产品出货量全球第一。\n\nTP-Link于2008年成立了深圳市联洲国际技术有限公司（TP-Link联洲）。如今，TP-Link联洲作为集团重要的研发、制造和产品设计中心之一，秉承钻研细节、快速响应、求真务实、专注求强的实干作风，专注于技术的创新、领先与可靠，不断打造让用户满意的产品与体验。\n\n二、 2027届秋季校园招聘\n\n1.招募对象\n\n2027.1.1-2027.7.31期间毕业于国内大陆高校的应届毕业生\n\n2026.8.1-2027.7.31期间毕业于港澳台及海外高校的留学生\n\n2.招聘岗位\n\n研发类、产品类、营销类、制造类、供应链类、人力资源类、行政类、财务类、设计类\n\n详见https://join.tplinkglobal.com/campus\n\n*搜索关键词，直达意向岗位\n\n3.招聘流程\n\n网申→简历筛选→笔试→面试2-3轮→心理测评→座谈/HR面→Offer→签订就业协议\n\n4.招聘须知\n\n【投递截止时间】2026年8月14日开启网申投递通道，招满即止\n\n【面试形式】线下/线上面试\n\n【内推码】VF3A9\n\n5.网申通道\n\n【PC端】https://join.tplinkglobal.com/campus\n\n【移动端】“TP-Link联洲招聘”微信公众号—校园招聘—简历投递\n\n*秋季校园招聘仅可投递一个岗位\n\n三、 加入TP-Link联洲\n\n1.行业高水平薪资、六险一金全覆盖、丰厚的福利待遇、节假日特别惊喜\n\n2.免费通勤班车，出行超便利；独立健身房+年度体检，为你筑牢健康保障\n\n3.完善的培训体系，一对一导师带教，助你丝滑landing\n\n4.双通道人才发展路径，多赛道、多机遇任你选\n\n5.坚守实干初心，践行务实作风，专注创新突破，与你共赴成长\n\n四、 了解更多\n\n1.邮件咨询：\n\n2.公众号后台留言：“TP-Link联洲招聘”微信公众号\n\n3. QQ群：加入浙江大学官方QQ交流群（群号：1063579510），HR为你在线答疑",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:fece19dd85150f27413fedeaec5a9f86",
+      "kind": "talk",
+      "title": "上海玄信资产管理中心2026秋季校园招聘",
+      "company": "上海玄信资产管理中心（有限合伙）",
+      "startAt": "2026-10-16T19:00:00+08:00",
+      "endAt": null,
+      "date": "2026-10-16",
+      "venue": "紫金港校区尧坤楼215报告厅",
+      "campus": "紫金港校区",
+      "building": "紫金港校区尧坤楼215",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=fece19dd85150f27413fedeaec5a9f86",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "企业简介\n\n上海玄信资产管理中心（有限合伙）成立于2015年（前身大雁资产），是一家由华尔街资深对冲基金交易员和世界顶尖计算机科学家共同成立的私募量化交易公司。\n\n公司位于上海陆家嘴世纪金融广场，团队核心成员均毕业于世界顶级名校（北大、清华、南大、上海交大、中科大、芝大、加州伯克利、纽大、巴黎高师、巴黎综合理工等），公司通过完全独立自主研发的数学模型和计算机系统，在四个期货交易所和两个证券交易所进行全自动交易，促进价格发现并为市场提供流动性。\n\n目前在股指、股票、国债、大宗商品、期权等资产类别上开发积累了丰富的交易技术和投资策略，在竞争激烈的量化交易市场占据领先优势。\n\n我们的愿景是做一家具有全球竞争力的量化交易公司，沉心务实，迭代创新，推动行业发展，勇担社会责任。\n\n招聘岗位\n\n机器学习研究员（全职/实习）\n\n岗位职责：\n\n1、利用公司海量金融数据（包括量价、基本面、另类数据等），进行数据清洗、特征提取与探索性分析，挖掘数据中的有效规律与信号\n\n2、运用机器学习、深度学习等方法构建预测模型，应用于价格预测、因子挖掘、组合优化等量化场景，持续迭代优化模型性能\n\n3、跟踪机器学习/深度学习领域的前沿进展（如Transformer、图神经网络、强化学习等），探索其在量化金融领域的创新应用\n\n4、与量化研究员、开发工程师紧密协作，将研究成果转化为实盘交易策略\n\n关键词：机器学习、深度学习、大模型、AI Agent\n\n任职要求：\n\n1、计算机科学、数学、物理等理工科相关专业，本科及以上学历；\n\n2、精通 Python，具备良好的工程实践习惯与代码质量意识；\n\n3、具有扎实的机器学习/深度学习理论功底，并有丰富的实际项目经验，能够独立完成模型设计与落地；\n\n4、在 ACM/ICPC、NOIP/NOI 、CMO、CPHO等竞赛中获奖，取得优异成绩者优先；\n\n5、逻辑思维严谨，数据分析能力强，善于从数据中洞察规律；\n\n6、对量化投资有强烈兴趣，自驱力强，乐于持续学习与挑战自我。\n\n量化研究员（全职/实习）\n\n岗位职责：\n\n1、对金融市场海量历史数据进行统计分析，运用科学方法挖掘数据规律与有效信号\n\n2、运用数理统计方法构建量化预测模型与交易策略，持续优化模型表现\n\n3、参与策略的开发、落地与绩效跟踪，对策略各环节进行诊断与迭代优化\n\n4、跟踪学术前沿进展，探索新方法在量化金融领域的应用可能性\n\n关键词：因子挖掘、因子组合、量化策略、组合优化\n\n任职要求：\n\n1、计算机科学、数学、物理等理工科相关专业，本科及以上学历；；\n\n2、在数学、概率统计、优化理论、算法设计等方面拥有扎实的学术基础，具备严谨的科学思维与快速推理能力\n\n3、具备独立研究与深度思考的能力，面对复杂问题能提出创新性解决方案，并持之以恒地钻研；\n\n4、工作细致负责，诚实守信，具有强烈的事业心和进取心，善于团队协作。\n\nQuant Developer（全职/实习）\n\n岗位职责：\n\n1、与量化研究员紧密配合，将机器学习/统计模型转化为可上线交易的策略代码\n\n2、设计、开发并维护量化研究与策略实现所需的基础工具链\n\n3、优化策略执行效率，对策略代码进行性能分析与调优\n\n4、理解研究员需求，快速迭代工具与流程，提升整体研究效率\n\n5、参与研究平台的日常维护与技术支持，确保研究环境稳定高效运行\n\n关键词：策略框架开发、性能优化、算法实现\n\n任职要求：\n\n1、计算机、软件工程等相关专业，本科及以上学历；\n\n2、有C++/Python混合编程经验，具备扎实的代码功底和数据处理能力\n\n3、了解常用的数据结构和算法，具备良好的工程实现能力\n\n4、具备良好的沟通能力和团队协作意识，乐于与研究员协作解决复杂问题\n\nC++高级开发工程师(全职/实习)\n\n岗位职责：\n\n1、参与量化交易相关核心系统和平台的设计、开发与维护\n\n2、将量化策略与模型落地为可执行的交易代码，完成策略的工程化部署\n\n3、持续优化系统性能，包括低延迟优化、高并发处理、分布式计算等\n\n关键词:交易系统开发、高并发处理、低延迟优化\n\n任职要求：\n\n1、计算机、软件工程、电子工程等相关专业，本科及以上学历;\n\n2、熟练掌握 C++开发，具备扎实的编程功底和良好的编码习惯\n\n3、熟悉 Linux操作系统、多线程体系架构、网络编程模型、大规模并发计算框架\n\n4、具备良好的逻辑思维和学习能力，对技术有热情，善于发现并解决系统性能瓶颈\n\n福利待遇\n\n• 陆家嘴核心地段、交通便利\n\n• 行业领先的薪资水平、年终奖、合伙人激励制度\n\n• 超额年终奖励\n\n• 70%实习转正率\n\n• 员工专属基金\n\n• 健身房年卡、年度高端体检套餐\n\n• 支持上海落户\n\n• 专业办公设备\n\n• 弹性午休时间\n\n• 多样化的室内休闲区域\n\n• 丰富的餐食及多样化下午茶，不限量零食、饮料\n\n• 解压团建",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-01T15:06:52.442Z",
+      "lastSeenAt": "2026-10-01T15:06:52.442Z",
       "changes": [
         "new"
       ]

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T18:21:19.903Z",
-  "lastSuccessAt": "2026-11-09T18:21:19.903Z",
+  "generatedAt": "2026-11-10T16:06:40.404Z",
+  "lastSuccessAt": "2026-11-10T16:06:40.404Z",
   "window": {
-    "start": "2026-11-05",
-    "end": "2026-11-25"
+    "start": "2026-11-06",
+    "end": "2026-11-26"
   },
   "source": {
     "url": "https://www.career.zju.edu.cn/",
@@ -16,163 +16,6 @@
     "detailFailures": 0
   },
   "events": [
-    {
-      "id": "talk:xjh:5a4fbf868cfb66e8ab3adfbb57c1c7a0",
-      "kind": "talk",
-      "title": "华为2027届应届生招聘 销服类岗位推介会-浙江大学",
-      "company": "华为技术有限公司",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-05",
-      "venue": "紫金港校区尧坤楼222传化厅",
-      "campus": "紫金港校区",
-      "building": "紫金港校区尧坤楼222",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=5a4fbf868cfb66e8ab3adfbb57c1c7a0",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "华为销售2027届应届生招聘\n\nhttps://mp.weixin.qq.com/s/jtJ3QWG9vPw-L7tX868GmQ",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-10-22T13:28:21.459Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
-      "changes": [
-        "new",
-        "time"
-      ],
-      "previous": {
-        "startAt": "2026-11-05T14:00:00+08:00",
-        "endAt": null,
-        "venue": "紫金港校区尧坤楼222传化厅"
-      }
-    },
-    {
-      "id": "talk:xjh:dd65b5ede02a0c4b642f05389457d296",
-      "kind": "talk",
-      "title": "厦门银行股份有限公司2027年校园招聘",
-      "company": "厦门银行股份有限公司",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-05",
-      "venue": "紫金港校区尧坤楼215报告厅",
-      "campus": "紫金港校区",
-      "building": "紫金港校区尧坤楼215",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=dd65b5ede02a0c4b642f05389457d296",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "厦门银行股份有限公司\n\n2027年校园招聘简章\n\n一、公司简介\n\n厦门银行成立于1996年11月，是大陆首家具有台资背景的城市商业银行，也是福建省首家上市城商行（股票代码：601187）。立行三十载，厦门银行始终坚持走高质量发展之路，逐步成长为一家治理完善、实力雄厚、特色鲜明的区域主流银行。\n\n截至2025年12月末，集团资产总额4531亿元，主体信用评级AAA级。全行现有124个现代化经营网点，经营区域覆盖福建省和重庆市，员工约3800人。下设福建海西金融租赁有限责任公司、厦门自贸试验区资金营运中心、理财中心等机构，是区域内金融牌照较为齐全的城商行之一。\n\n公司股权结构稳定，兼具国有、台资、民营等多种资本。第一大股东为金圆集团（厦门市财政局为唯一出资人的市属国有金融控股集团），第二大股东为台湾第二大金融控股公司——富邦金控。\n\n厦门银行高度重视优秀青年人才的汇聚和培育，努力为员工创造和谐融洽的成长环境，提供全面的培训机会和多元化的发展平台，荣获厦门人才工作先进集体、厦门最佳雇主等荣誉。我们始终坚守成就员工的使命，携手每位追梦人共创辉煌未来，实现个人价值与银行发展的同频共振。\n\n二、基本要求\n\n（一）具有良好的政治素质，诚实守信，遵纪守法，品行端正，无违法违纪违规行为及不良行为记录。\n\n（二）境内外高校2027届大学本科及以上学历毕业生，应在2026年1月至2027年7月毕业。其中：\n\n境内院校毕业生报到入职时须提供毕业证、学位证；\n\n境外院校毕业生报到入职前取得学历（学位）证及国家教育部留学服务中心出具的学历学位认证。\n\n（三）具有正常履行工作职责的身体条件及健康良好的心理素质，具有较强的自我驱动力、责任心、学习能力和良好的团队协作精神。\n\n（四）初次就业，未与其他单位建立劳动关系。\n\n（五）符合厦门银行亲属回避的有关规定。\n\n三、招聘岗位\n\n（一）总行岗位\n\n1.总行管培生（综合方向）：聚焦战略管理、行业研究、产品设计及风险管理等核心领域，培养熟业务、懂管理的复合型人才；同时作为总行管理人才培养项目，依托多岗位历练与专项赋能，储备青年管理干部。\n\n岗位要求：硕士研究生及以上学历，经济、金融、财务会计、管理、工科等相关专业，或具备跨学科学习背景。\n\n2.总行管培生（FinTech方向）：聚焦科技、数据、产品及风控等数字化领域，培养懂业务、通技术的复合型人才；同时作为总行管理人才培养项目，依托重点项目实战与专项赋能，储备青年管理干部。\n\n岗位要求：硕士研究生及以上学历，信息科技、数理统计等相关专业，或具备信息技术与经济金融等复合专业背景。\n\n（二）分行岗位\n\n1.分行管培生（综合方向）：为分行业务经营管理工作提供业务骨干及管理人才的储备。\n\n岗位要求：硕士研究生及以上学历，经济、金融、财务会计、管理、工科等相关专业，或具备跨学科学习背景。\n\n2.市场营销类：为企业金融、零售金融等业务营销工作提供人才储备。\n\n岗位要求：本科及以上学历，经济、金融类等相关专业优先。\n\n3.柜面服务类：为柜面业务办理、客户综合结算服务提供人才储备。\n\n岗位要求：本科及以上学历，经济、金融类等相关专业优先。\n\n四、人才培养\n\n（一）系统化培训：入职集中培训、专项能力提升等分层递进，覆盖职业全周期。\n\n（二）管培生专项培养：核心部门轮岗历练、深度参与项目实践，由部门一把手亲自担任带教导师，迅速成长为业务骨干，表现优秀者将直接纳入干部人才库。\n\n（三）职业发展通道：提供专业序列与管理序列双通道发展路径，支持员工依据自身特长选择适合的职业发展方向，让奋斗者有为有位。\n\n五、薪酬福利\n\n提供具有市场竞争力的薪酬待遇和完善的福利保障，包括：五险一金、企业年金、补充医疗保险、带薪年休假、节日福利、年度体检、员工食堂或餐补等；为非本地生源新员工提供住宿支持或租房补贴，并可按政策申领厦门人才补贴。\n\n六、工作地点\n\n福建省各地市（厦门、福州、泉州、漳州、莆田、三明、南平、龙岩、宁德）、重庆\n\n七、招聘流程\n\n网申 → 简历初筛 → 面试、笔试 → 体检及背调 → 录用\n\n（一）网申地址：\n\nhttps://xmbank.mokahr.vip\n\n（二）我行将根据招聘条件对应聘者资格审查和简历初选，符合条件者将收到进入下一环节的通知。\n\n（三）我行将于9月起陆续开展校园宣讲，诚邀各大高校的同学到场交流。具体宣讲城市及时间安排请关注我行官方公众号获取最新资讯。\n\n八、相关说明\n\n（一）网申每人限报考一个职位，请勿重复递交。\n\n（二）应聘者应对其提供的应聘资料真实性负责。如与事实不符，我行有权取消其应聘资格，由此导致的后果由应聘者自行承担。\n\n（三）招聘期间，我行将通过应聘者在线报名时填写的联系方式（包括手机、E-MAIL邮箱）与本人联系，请注意取消手机屏蔽设置，且保持通讯畅通。\n\n（四）如您对校招有相关问题咨询，可发邮件至我行校招邮箱",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-10-29T14:57:27.312Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "talk:xjh:6f8f0eb55a5d809fef80dcbebc9fff15",
-      "kind": "talk",
-      "title": "已发布(更新)\n追光而行，芯火相传-希烽光电校园宣讲会",
-      "company": "希烽光电科技（南京）有限公司",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-05",
-      "venue": "玉泉永谦活动中心二楼报告厅",
-      "campus": "玉泉校区",
-      "building": "玉泉永谦活动中心二",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=6f8f0eb55a5d809fef80dcbebc9fff15",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "SiFotonics 成立于 2007 年，是国际上最早探索硅光集成技术的领军企业之一。公司的硅光集成芯片系列产品和高性能探测器系列产品已经实现多年量产出货，并占据可观的市场份额，SiFotonics也是硅光集成技术公司中为数不多能够实现盈利的企业。\n\nSiFotonics 的高管及核心技术团队主要由来自麻省理工、清华大学、交通大学、浙江大学、复旦大学、中科院、华科大、北邮等知名学府的业界精英组成，公司累计融资额超一亿美元，拥有硅光技术核心专利 200余项。SiFotonics一直注重先进技术研发，目前拥有一个由上百名优秀光芯片、电芯片、光引擎设计工程师组成的卓越研发团队，同时也组建了经验丰富的工程和量产技术团队。公司在波士顿、硅谷、香港、南京、北京、上海、和台湾新竹等地设有分支机构。通过与业界领先的CMOS晶圆厂密切合作，并自建核心测试封装能力，SiFotonics 实现了公司产品超数亿通道的年出货能力，并在细分领域实现了出货量、市场份额的行业领先。\n\n公司产品包括相干收发类硅光集成芯片、强度调制类硅光芯片、Ge/Si PD&APD类芯片、NPO&CPO 光引擎、高性能相干组件等，应用范围覆盖 AI 集群、数据通信、5G&6G、骨干网、空间传感等场景。目前正与全球顶尖AI 光互连解决方案供应商合作，共同开发新一代高速率、高带宽密度、低功耗的光互连产品，主要终端用户为北美Top 5的互联网及AI芯片厂商，以及国内Top 3的互联网厂商。\n\n公司网址：www.sifotonics.com",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-10-14T13:19:21.444Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
-      "changes": [
-        "new",
-        "time"
-      ],
-      "previous": {
-        "startAt": "2026-10-29T13:30:00+08:00",
-        "endAt": null,
-        "venue": "玉泉永谦活动中心二楼报告厅"
-      }
-    },
-    {
-      "id": "talk:xjh:ce7e49c61ab89c8af9097e1ab25ffc95",
-      "kind": "talk",
-      "title": "广州市公安局2027年招录公务员部分岗位沟通交流座谈会",
-      "company": "广州市公安局大数据警务支队",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-05",
-      "venue": "永谦学生活动中心B108",
-      "campus": "校区待确认",
-      "building": "永谦学生活动中心B108",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=ce7e49c61ab89c8af9097e1ab25ffc95",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "广州市公安局大数据警务支队将于11月5日上午10：30来我校开展公务员招录部分职位宣讲介绍活动。本次招录意向主要为信息通信类专业方向毕业生，涉及招录职位46个95人，工作内容主要为公安信息化建设、大数据分析研判、人工智能应用研究等。\n\n相关岗位专业要求：\n\n（1）学士本科：计算机科学与技术、软件工程、网络工程、信息安全、网络空间安全、人工智能、数据科学与大数据技术、电子信息工程、通信工程、信息工程等，部分职位面向统计学、数学类。\n\n（2）硕士研究生：计算机科学与技术、软件工程、网络空间安全、电子科学与技术、信息与通信工程、智能科学与技术及人工智能、大数据等专业硕士，部分职位面向统计学、应用统计、数学、系统科学等。\n\n具体专业要求详见附件：《广州市公安局各级公安机关2027年考试录用公务员职位表》（信息化建设、数据分析、人工智能等专业方向）。\n\n报名时间：2026年11月2日9:00至11月6日16:00\n\n报名地址：https://ggfw.hrss.gd.gov.cn/gwyks/index.do\n\n笔试时间：2026年12月6日\n\n欢迎有兴趣的同学们踊跃参与本次交流活动。",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-11-04T16:19:51.159Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "talk:xjh:a59cd58a563b0c6d4963beb4c74dfcc5",
-      "kind": "talk",
-      "title": "康哲药业-浙江大学专场宣讲",
-      "company": "深圳市康哲药业有限公司",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-05",
-      "venue": "紫金港西区尧坤楼201室",
-      "campus": "紫金港校区",
-      "building": "紫金港西区尧坤楼201",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=a59cd58a563b0c6d4963beb4c74dfcc5",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "前景可期：立足长青赛道，踏上无限生机的航程\n\n在医药改革深化、创新驱动为主的行业升级浪潮中，康哲药业锚定“创新+专科”的长青赛道，聚焦心肾代谢、中枢神经、消化、眼科、皮肤健康等核心领域，持续丰富产品组合与商业化网络，精准把握市场趋势与临床需求。凭借卓越的商业化能力与前瞻布局，康哲正在多个细分赛道中持续突破，迎接医药行业的黄金发展期。\n\n向新崛起：迈入崭新征程，焕发无限活力与动能\n\n康哲始终以前瞻视角主动求变，完成三轮关键战略进化：\n\n1992-2010 年：深耕推广体系，成为“中国最大 CSO”；\n\n2010-2018 年：向 Pharma 企业转型，提升产品主控力；\n\n2018 年起，向“差异化专科医药产品的全生命周期管理者”跃迁，开启“新康哲”时代。\n\n站在战略进化的新起点上，康哲正加速迈入高质量发展的新阶段。持续丰富创新产品管线，打造兼具差异化优势与市场可及性的产品组合；聚焦专科赛道，持续完善院内外协同、线上线下的全业态、全域商业化推广网络，在巩固院内严肃医学高地的同时，拓展消费医疗场景与新零售、数字渠道，提升药品可及性并助力健康普惠；加快推进“产业国际化”战略，以新加坡为支点，通过研、产、销全链生态，将经中国市场验证的全生命周期管理能力向亚太市场横向延伸，打造多区域增长格局。通过新产品、新模式与新市场的协同发力，推动业务规模与质量同步跃升。\n\n专业致远：坚守专业创新，开创卓越共赢的未来\n\n康哲坚持以专业立身，与多家国际领先药企建立深度合作，持续对标先进的产品理念、推广体系与合规标准。在组织能力、管理机制、人才培养等多个层面，不断拓展专业边界，打造兼具本地洞察与全球视野的高质量平台。",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-10-30T14:50:11.273Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
-      "changes": [
-        "new"
-      ]
-    },
     {
       "id": "talk:xjh:3533d9c8197b44f9ca24b2101c328adc",
       "kind": "talk",
@@ -197,7 +40,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-26T14:51:41.353Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -226,7 +69,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -255,7 +98,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-23T13:05:04.415Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new",
         "time"
@@ -290,7 +133,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-25T12:58:01.775Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new",
         "time"
@@ -325,7 +168,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:19:51.159Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -354,7 +197,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -383,7 +226,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -412,7 +255,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-10-26T14:51:41.353Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -441,7 +284,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-25T12:58:01.775Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new",
         "time",
@@ -477,7 +320,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -506,7 +349,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-09T18:21:19.903Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -535,7 +378,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-26T14:51:41.353Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -564,7 +407,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-29T14:57:27.312Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -593,7 +436,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-30T14:50:11.273Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -622,7 +465,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-27T14:04:28.418Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -651,7 +494,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-29T14:57:27.312Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -680,7 +523,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -709,7 +552,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:19:51.159Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -738,7 +581,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:19:51.159Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -767,7 +610,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:52:13.731Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -796,7 +639,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:52:13.731Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:3aa7306fcbea585d95055cf6c3b23e38",
+      "kind": "talk",
+      "title": "已发布(取消)\n杭州星原驰半导体有限公司2027届校园招聘宣讲会",
+      "company": "杭州星原驰半导体有限公司",
+      "startAt": null,
+      "endAt": null,
+      "date": "2026-11-12",
+      "venue": "紫金港校区尧坤楼215报告厅",
+      "campus": "紫金港校区",
+      "building": "紫金港校区尧坤楼215",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=3aa7306fcbea585d95055cf6c3b23e38",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "",
+      "detailStatus": "ok",
+      "availability": "cancelled",
+      "firstSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -825,7 +697,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:52:13.731Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new",
         "venue"
@@ -835,35 +707,6 @@
         "endAt": null,
         "venue": "紫金港西区尧坤楼201室"
       }
-    },
-    {
-      "id": "talk:xjh:3aa7306fcbea585d95055cf6c3b23e38",
-      "kind": "talk",
-      "title": "杭州星原驰半导体有限公司2027届校园招聘宣讲会",
-      "company": "杭州星原驰半导体有限公司",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-12",
-      "venue": "紫金港校区尧坤楼215报告厅",
-      "campus": "紫金港校区",
-      "building": "紫金港校区尧坤楼215",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=3aa7306fcbea585d95055cf6c3b23e38",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-11-09T18:21:19.903Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
-      "changes": [
-        "new"
-      ]
     },
     {
       "id": "talk:xjh:6854f48fa835aca65e871010cca9e44c",
@@ -889,7 +732,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -918,7 +761,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-29T14:57:27.312Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -947,7 +790,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -976,7 +819,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -1005,7 +848,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-21T13:27:04.008Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new",
         "time"
@@ -1040,7 +883,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-30T14:50:11.273Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -1069,7 +912,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-27T14:04:28.418Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new",
         "venue"
@@ -1104,7 +947,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]
@@ -1133,7 +976,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-08T14:46:22.779Z",
-      "lastSeenAt": "2026-11-09T18:21:19.903Z",
+      "lastSeenAt": "2026-11-10T16:06:40.404Z",
       "changes": [
         "new"
       ]

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T16:06:40.404Z",
-  "lastSuccessAt": "2026-11-10T16:06:40.404Z",
+  "generatedAt": "2026-11-12T16:35:31.213Z",
+  "lastSuccessAt": "2026-11-12T16:35:31.213Z",
   "window": {
-    "start": "2026-11-06",
-    "end": "2026-11-26"
+    "start": "2026-11-08",
+    "end": "2026-11-28"
   },
   "source": {
     "url": "https://www.career.zju.edu.cn/",
@@ -12,103 +12,10 @@
   },
   "sync": {
     "status": "ok",
-    "fetchedCount": 55,
+    "fetchedCount": 56,
     "detailFailures": 0
   },
   "events": [
-    {
-      "id": "talk:xjh:3533d9c8197b44f9ca24b2101c328adc",
-      "kind": "talk",
-      "title": "医路有为 耀启新程|国药集团2027届“星耀计划”校园招聘",
-      "company": "中国医药集团有限公司",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-06",
-      "venue": "紫金港校区尧坤楼222传化厅",
-      "campus": "紫金港校区",
-      "building": "紫金港校区尧坤楼222",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=3533d9c8197b44f9ca24b2101c328adc",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "医路有为 耀启新程|国药集团2027届“星耀计划”校园招聘全面启动\n\n“医”路同行的我们\n\n中国医药集团有限公司（简称“国药集团”），作为国务院国资委直接管理的以生命健康为主业的中央企业，集团规模、效益和综合实力居于全球同行业领先地位，拥有科技研发、工业制造、物流分销、零售连锁、医疗健康、工程技术、专业会展、国际经营、金融投资等大健康全产业链。\n\n成员企业：1600余家\n\n国家级研发机构：44个\n\n省部级科技创新平台：102个\n\n通过CNAS认证的实验室：24个\n\n国家科学技术进步奖：56项\n\n国家技术发明奖：13项\n\n主持和参与制定国家级技术标准1100余项\n\n连续多年位列《财富》杂志全球500强\n\n加入国药集团 你将收获\n\n蓬勃向上的行业发展机遇\n\n全面优质的个人成长平台\n\n灵活丰富的人才培养机制\n\n开放包容的团队文化氛围\n\n多维全面的薪酬福利待遇\n\n我们需要这样的你\n\n国内外高校2027届应届毕业生\n\n(含两年择业期内未落实工作单位的高校毕业生)\n\n科技研发类 商贸物流类\n\n市场营销类 质量管理类\n\n生产制造类 医疗健康类\n\n运营管理类 综合管理类\n\n招聘流程\n\n线上宣传&线下宣讲 &简历投递 → 测评 → 面试 → Offer发放 → 实习&入职\n\n（具体环节与时间以实际招聘安排为准）\n\n报名方式\n\nPC端：https://sinopharm2027.iguopin.com/job\n\n移动端：\n\n简历扫码投递\n\n解锁各单位星耀岗位\n\n星耀青春 大有所为\n\n我们热忱以待\n\n欢迎加入国药集团",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-10-26T14:51:41.353Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "talk:xjh:b06297d4832f7916f0470169e873d212",
-      "kind": "talk",
-      "title": "康龙化成2027全球校园招聘宣讲会-浙江大学专场",
-      "company": "康龙化成（北京）新药技术股份有限公司",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-06",
-      "venue": "紫金港校区尧坤楼215报告厅",
-      "campus": "紫金港校区",
-      "building": "紫金港校区尧坤楼215",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=b06297d4832f7916f0470169e873d212",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "康龙化成2027全球校园招聘\n\n化学、生物、药学、化工与制药、医学等专业\n\n企业简介\n\n康龙化成（股票代码：300759.SZ / 3759.HK）是国际领先的生命科学研发服务企业。自2003年成立以来，康龙化成一直致力于人才培养和设施建设，为包括小分子、大分子和细胞与基因治疗药物在内的多疗法药物研发打造了一个贯穿药物发现、临床前及临床开发全流程的研发生产服务体系。康龙化成在中国、美国、英国均开展运营，拥有29,000多名员工，向北美、欧洲、日本和中国的合作伙伴提供研发解决方案并与之保持良好的合作关系。（详情请访问公司网站：www.pharmaron.com）\n\n招聘对象\n\n学历\n\n范围\n\n毕业/出站时间\n\n博士毕业生及出站博士后\n\n全球\n\n2026.1.1-2027.12.31\n\n硕士研究生\n\n国内\n\n2027.1.1-2027.12.31\n\n海外\n\n2026.1.1-2027.12.31\n\n本科毕业生\n\n国内\n\n2027.1.1-2027.12.31\n\n职位方向\n\n实验室服务\n\n适配专业：化学类、生物类、化工与制药类、药学类、基础医学类\n\nCDMO服务\n\n适配专业：化学类、化工与制药类、生物类\n\n临床研究服务\n\n适配专业：药学类、临床医学类 、护理学类、生物学类\n\n人工智能\n\n适配专业：计算机、人工智能、统计学、数学\n\n职能运营\n\n适配专业：管理学类、心理学类、财会类、法学类\n\n招聘城市\n\n北京、宁波、绍兴、西安、天津、无锡、上海、杭州、青岛、成都、济南、郑州、南京、武汉广州、沈阳、长春、哈尔滨等\n\n适配专业\n\n化学类、生物学类、药学类、化工与制药类、医学类、护理学类、公共卫生类、人工智能、计算机类、统计学类、数学类、经济管理类等\n\n薪酬福利&丰富生活 总部及分/子公司之间略有不同，具体福利以与HR沟通情况为准\n\n1、有竞争力的薪酬：行业内极具竞争力的薪资，核心骨干及管理人员可享受股权激励。\n\n2、健全的福利制度：五险一金、带薪年假、节日礼物、免费体检、免费午餐、免费班车、免费过渡住房。\n\n3、丰富的文化活动：足球、篮球、羽毛球、乒乓球、瑜伽、台球、英语等丰富多彩员工俱乐部活动以及草地音乐节、团队出游等休闲活动。\n\n简历投递邮箱：\n\n简历投递链接：https://app.mokahr.com/m/campus-recruitment/pharmaron/74162",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "talk:xjh:850201a54ca5993e838e06ca08e0d066",
-      "kind": "talk",
-      "title": "远和资产2026浙江大学招聘会",
-      "company": "杭州远和私募基金有限公司",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-07",
-      "venue": "紫金港校区尧坤楼215报告厅",
-      "campus": "紫金港校区",
-      "building": "紫金港校区尧坤楼215",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=850201a54ca5993e838e06ca08e0d066",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-10-23T13:05:04.415Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
-      "changes": [
-        "new",
-        "time"
-      ],
-      "previous": {
-        "startAt": "2026-11-07T18:00:00+08:00",
-        "endAt": null,
-        "venue": "紫金港校区尧坤楼215报告厅"
-      }
-    },
     {
       "id": "talk:xjh:dcfec77385e21c2f3fe26461dd37117b",
       "kind": "talk",
@@ -133,7 +40,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-25T12:58:01.775Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new",
         "time"
@@ -168,7 +75,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:19:51.159Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -197,7 +104,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -226,7 +133,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -255,7 +162,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-10-26T14:51:41.353Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -284,7 +191,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-25T12:58:01.775Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new",
         "time",
@@ -320,7 +227,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -349,7 +256,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-09T18:21:19.903Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -378,7 +285,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-26T14:51:41.353Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -407,7 +314,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-29T14:57:27.312Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -436,7 +343,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-30T14:50:11.273Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -465,7 +372,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-27T14:04:28.418Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -494,7 +401,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-29T14:57:27.312Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -523,7 +430,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -548,11 +455,11 @@
       },
       "jobs": [],
       "participants": [],
-      "description": "为更好的搭建毕业生和用人单位之间交流平台，全力促进毕业生高质量充分就业。浙江大学定于2026年11月11日在紫金港校区举办浙江大学2027届毕业生综合双选会（秋冬第三场）。\n\n一、时间地点\n\n时间：2026年11月11日（星期三） 13:30－16:30\n\n地点：浙江大学紫金港校区尧坤楼二楼招聘大厅\n\n二、参会单位\n\n见下方\n\n株洲组团：\n\n株洲市走进浙江大学招才引智活动企业列表\n\n序号\n\n单位性质\n\n单位名称\n\n1\n\n事业单位\n\n湖南工业大学\n\n2\n\n事业单位\n\n湖南汽车工程职业技术大学\n\n3\n\n事业单位\n\n湖南化工职业技术学院\n\n4\n\n事业单位\n\n湖南铁道职业技术学院\n\n5\n\n事业单位\n\n中国航发湖南动力机械研究所\n\n6\n\n国央企\n\n中国航发南方工业有限公司\n\n7\n\n国央企\n\n中车株洲电力机车研究所有限公司\n\n8\n\n国央企\n\n中车株洲电力机车有限公司\n\n9\n\n国央企\n\n株洲时代新材料科技股份有限公司\n\n10\n\n国央企\n\n中车株洲电机有限公司\n\n11\n\n国央企\n\n中钨高新材料股份有限公司\n\n12\n\n国央企\n\n株洲钻石切削刀具股份有限公司\n\n13\n\n国央企\n\n湖南千金药业股份有限公司\n\n14\n\n国央企\n\n潍柴火炬科技股份有限公司\n\n15\n\n国央企\n\n株洲国创轨道科技有限公司\n\n16\n\n国央企\n\n湖南星途航空航天器制造有限公司\n\n17\n\n国央企\n\n北京汽车股份有限公司株洲分公司\n\n18\n\n民营企业\n\n光启技术股份有限公司\n\n19\n\n民营企业\n\n湖南立方新能源科技有限责任公司\n\n20\n\n民营企业\n\n株洲麦格米特电气有限责任公司\n\n21\n\n民营企业\n\n湖南中晟全肽生物科技股份有限公司\n\n22\n\n民营企业\n\n株洲旗滨集团股份有限公司\n\n23\n\n民营企业\n\n湖南华联瓷业股份有限公司\n\n24\n\n民营企业\n\n湖南日望科技集团有限公司\n\n25\n\n民营企业\n\n株洲易力达机电有限公司\n\n26\n\n民营企业\n\n湖南东嘉智能科技有限公司\n\n27\n\n民营企业\n\n株洲太昌电子信息技术股份有限公司\n\n三、参会有关事项\n\n1、浙江大学学生参会凭学生证、研究生证或校园卡，并携带应届毕业生推荐表或简历入场。\n\n2、前来应聘的毕业生要文明应聘，遵守招聘纪律，尊重用人单位招聘工作人员，妥善保管好随身物品。\n\n浙江大学就业指导与服务中心\n\n2026年11月3日",
+      "description": "为更好的搭建毕业生和用人单位之间交流平台，全力促进毕业生高质量充分就业。浙江大学定于2026年11月11日在紫金港校区举办浙江大学2027届毕业生综合双选会（秋冬第三场）。\n\n一、时间地点\n\n时间：2026年11月11日（星期三） 13:30－16:30\n\n地点：浙江大学紫金港校区尧坤楼二楼招聘大厅\n\n二、参会单位\n\n见下方\n\n株洲组团：\n\n株洲市走进浙江大学招才引智活动企业列表\n\n序号\n\n单位性质\n\n单位名称\n\n1\n\n事业单位\n\n湖南工业大学\n\n2\n\n事业单位\n\n湖南汽车工程职业技术大学\n\n3\n\n事业单位\n\n湖南化工职业技术学院\n\n4\n\n事业单位\n\n湖南铁道职业技术学院\n\n5\n\n事业单位\n\n中国航发湖南动力机械研究所\n\n6\n\n国央企\n\n中国航发南方工业有限公司\n\n7\n\n国央企\n\n中车株洲电力机车研究所有限公司\n\n8\n\n国央企\n\n中车株洲电力机车有限公司\n\n9\n\n国央企\n\n株洲时代新材料科技股份有限公司\n\n10\n\n国央企\n\n中车株洲电机有限公司\n\n11\n\n国央企\n\n中钨高新材料股份有限公司\n\n12\n\n国央企\n\n株洲钻石切削刀具股份有限公司\n\n13\n\n国央企\n\n湖南千金药业股份有限公司\n\n14\n\n国央企\n\n潍柴火炬科技股份有限公司\n\n15\n\n国央企\n\n株洲国创轨道科技有限公司\n\n16\n\n国央企\n\n湖南星途航空航天器制造有限公司\n\n17\n\n国央企\n\n北京汽车股份有限公司株洲分公司\n\n18\n\n民营企业\n\n光启技术股份有限公司\n\n19\n\n民营企业\n\n湖南立方新能源科技有限责任公司\n\n20\n\n民营企业\n\n株洲麦格米特电气有限责任公司\n\n21\n\n民营企业\n\n湖南中晟全肽生物科技股份有限公司\n\n22\n\n民营企业\n\n株洲旗滨集团股份有限公司\n\n23\n\n民营企业\n\n湖南华联瓷业股份有限公司\n\n24\n\n民营企业\n\n湖南日望科技集团有限公司\n\n25\n\n民营企业\n\n株洲易力达机电有限公司\n\n26\n\n民营企业\n\n湖南东嘉智能科技有限公司\n\n27\n\n民营企业\n\n株洲太昌电子信息技术股份有限公司\n\n天津滨海新区组团：\n\n展位号\n\n单位名称\n\n01\n\n天津生态城投资开发有限公司\n\n02\n\n可为智云(天津)科技有限公司\n\n03\n\n天津润锋科技有限公司\n\n04\n\n金舜驰(天津)汽车零部件股份有限公司\n\n05\n\n天津华慧芯科技集团有限公司\n\n06\n\n华海通信技术有限公司\n\n07\n\n清华大学天津电子信息研究院\n\n08\n\n图观(天津)数字科技有限公司\n\n09\n\n丹娜(天津)生物科技股份有限公司\n\n10\n\n天津先进技术研究院\n\n11\n\n凯莱英生命科学技术(天津)有限公司\n\n12\n\n中汽新能电池科技有限公司\n\n13\n\n滨海慢性病防控与健康创新研究院\n\n14\n\n巴斯(天津)航运有限公司\n\n15\n\n谱天(天津)生物科技有限公司\n\n16\n\n天津市远方蓝教育科技有限公司\n\n17\n\n天津集智航宇科技股份有限公司\n\n18\n\n天津辰星技术股份有限公司\n\n19\n\n天津市锦晖生物科技有限责任公司\n\n20\n\n倍舒特(天津)卫生用品有限公司\n\n三、参会有关事项\n\n1、浙江大学学生参会凭学生证、研究生证或校园卡，并携带应届毕业生推荐表或简历入场。\n\n2、前来应聘的毕业生要文明应聘，遵守招聘纪律，尊重用人单位招聘工作人员，妥善保管好随身物品。\n\n浙江大学就业指导与服务中心\n\n2026年11月3日",
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:19:51.159Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -581,7 +488,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:19:51.159Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -610,7 +517,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:52:13.731Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -639,7 +546,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:52:13.731Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -668,7 +575,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-11-09T18:21:19.903Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -697,7 +604,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:52:13.731Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new",
         "venue"
@@ -732,7 +639,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -761,7 +668,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-29T14:57:27.312Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -790,7 +697,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -819,7 +726,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -848,7 +755,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-21T13:27:04.008Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new",
         "time"
@@ -883,7 +790,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-30T14:50:11.273Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -912,7 +819,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-27T14:04:28.418Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new",
         "venue"
@@ -922,6 +829,35 @@
         "endAt": null,
         "venue": "紫金港校区尧坤楼222传化厅"
       }
+    },
+    {
+      "id": "fair:zph:600AC7AE837F1B7DE0653A68DD0E9B18",
+      "kind": "fair",
+      "title": "第29届全国卫生健康人才招聘会",
+      "company": "",
+      "startAt": null,
+      "endAt": null,
+      "date": "2026-11-17",
+      "venue": "尧坤楼二楼招聘大厅",
+      "campus": "校区待确认",
+      "building": "尧坤楼二",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/zphgl/ckZphsqdw.zf?zphbh=600AC7AE837F1B7DE0653A68DD0E9B18",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "各医学院校毕业生、卫生健康行业人才：\n\n为深入贯彻党的二十大及二十届历次全会精神，践行人才强国战略和健康优先发展战略，健全高质量充分就业促进机制，推动卫生健康人才队伍高质量发展，我中心充分发挥专业人才机构职能，联合多地卫生健康行政部门，协同各地医疗机构和医学院校，定于2026年10–12月在北京大型场馆和全国知名医学院校巡回举办第29届全国卫生健康人才招聘会。现将有关事宜通知如下。\n\n一、组织架构\n\n（一）主办单位\n\n国家卫生健康委人才交流服务中心\n\n天津市卫生健康委员会\n\n山东省卫生健康委员会\n\n（二）承办单位\n\n北京卫人人力资源开发有限公司\n\n天津市医学考试中心\n\n山东省卫生科技与人才发展中心\n\n高博人才\n\n（三）协办单位\n\n内蒙古自治区卫生健康医学教育考试中心\n\n上海市卫生人才交流服务中心\n\n江苏省卫生健康委员会人才服务中心\n\n浙江省医疗服务管理评价中心\n\n广西壮族自治区卫生健康人才与技术服务中心\n\n四川省卫生健康委员会人才服务中心\n\n陕西省卫生健康人才服务与外事交流中心\n\n宁夏回族自治区卫生健康干部培训中心\n\n二、大会安排\n\n（一）场次安排\n\n场次\n\n日期\n\n时间\n\n城市\n\n地点\n\n1\n\n10月27日\n\n14:00-17:00\n\n哈尔滨\n\n哈尔滨医科大学\n\n2\n\n10月29日\n\n14:00-17:00\n\n长春\n\n吉林大学白求恩医学部\n\n3\n\n10月31日\n\n09:00-12:00\n\n济南\n\n山东第一医科大学\n\n4\n\n11月3日\n\n14:00-17:00\n\n天津\n\n天津医科大学\n\n5\n\n11月7日\n\n09:00-13:00\n\n北京\n\n北京展览馆\n\n6\n\n11月10日\n\n14:00-17:00\n\n广州\n\n中山大学中山医学院\n\n7\n\n11月11日\n\n14:00-17:00\n\n广州\n\n南方医科大学\n\n8\n\n11月13日\n\n09:00-12:00\n\n成都\n\n四川大学华西医学中心\n\n9\n\n11月17日\n\n14:00-17:00\n\n杭州\n\n浙江大学紫金港校区尧坤楼二楼招聘大厅\n\n10\n\n11月24日\n\n14:00-17:00\n\n武汉\n\n华中科技大学同济医学院\n\n11\n\n11月25日\n\n14:00-17:00\n\n武汉大学医学部\n\n12\n\n11月27日\n\n14:00-17:00\n\n长沙\n\n中南大学湘雅医学院\n\n13\n\n12月3日\n\n14:00-17:00\n\n西安\n\n西安交通大学医学部\n\n（二）参会对象\n\n1.各级各类医疗卫生机构、医药企业及其他有行业人才需求的单位；\n\n2.医学院校毕业生、卫生健康行业在职人才。特别邀请高层次人才、急需紧缺专业人才、儿科和精神卫生专业人才等。\n\n（三）现场设置\n\n设置人才交流区、就业服务区。部分场次设立高层次人才专区、儿科和精神卫生专区、基层医疗卫生机构专区等。\n\n三、应聘者报名方式\n\n请扫描下方二维码，关注“卫人招聘”微信公众号，点击“个人预约”，获取入场券。\n\n参会单位及岗位需求将通过公众号持续更新，敬请关注，以便及时获取更多招聘会资讯。\n\n“卫人招聘”公众号\n\n国家卫生健康委人才交流服务中心",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "changes": [
+        "new"
+      ]
     },
     {
       "id": "talk:xjh:07c31ee9e9e292d90eb70204013754e5",
@@ -947,7 +883,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]
@@ -976,7 +912,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-08T14:46:22.779Z",
-      "lastSeenAt": "2026-11-10T16:06:40.404Z",
+      "lastSeenAt": "2026-11-12T16:35:31.213Z",
       "changes": [
         "new"
       ]

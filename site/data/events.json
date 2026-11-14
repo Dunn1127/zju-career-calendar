@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T16:35:31.213Z",
-  "lastSuccessAt": "2026-11-12T16:35:31.213Z",
+  "generatedAt": "2026-11-14T14:46:41.967Z",
+  "lastSuccessAt": "2026-11-14T14:46:41.967Z",
   "window": {
-    "start": "2026-11-08",
-    "end": "2026-11-28"
+    "start": "2026-11-09",
+    "end": "2026-11-29"
   },
   "source": {
     "url": "https://www.career.zju.edu.cn/",
@@ -12,7 +12,7 @@
   },
   "sync": {
     "status": "ok",
-    "fetchedCount": 56,
+    "fetchedCount": 58,
     "detailFailures": 0
   },
   "events": [
@@ -40,7 +40,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-25T12:58:01.775Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new",
         "time"
@@ -75,7 +75,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:19:51.159Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -104,7 +104,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -133,7 +133,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -162,7 +162,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-10-26T14:51:41.353Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -191,7 +191,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-25T12:58:01.775Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new",
         "time",
@@ -227,7 +227,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -256,7 +256,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-09T18:21:19.903Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -285,7 +285,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-26T14:51:41.353Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -314,7 +314,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-29T14:57:27.312Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -343,7 +343,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-30T14:50:11.273Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -372,7 +372,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-27T14:04:28.418Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -401,7 +401,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-29T14:57:27.312Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -430,7 +430,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -459,7 +459,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:19:51.159Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -488,7 +488,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:19:51.159Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -517,7 +517,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:52:13.731Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -546,7 +546,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:52:13.731Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -575,7 +575,7 @@
       "detailStatus": "ok",
       "availability": "cancelled",
       "firstSeenAt": "2026-11-09T18:21:19.903Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -604,7 +604,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:52:13.731Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new",
         "venue"
@@ -639,7 +639,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -668,7 +668,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-29T14:57:27.312Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -697,7 +697,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -726,7 +726,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -755,7 +755,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-21T13:27:04.008Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new",
         "time"
@@ -790,7 +790,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-30T14:50:11.273Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:3ef509fd9fa01e446b86f87b0e045c41",
+      "kind": "talk",
+      "title": "杭州星原驰半导体有限公司宣讲会",
+      "company": "杭州星原驰半导体有限公司",
+      "startAt": null,
+      "endAt": null,
+      "date": "2026-11-16",
+      "venue": "玉泉永谦活动中心二楼报告厅",
+      "campus": "玉泉校区",
+      "building": "玉泉永谦活动中心二",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=3ef509fd9fa01e446b86f87b0e045c41",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-11-14T14:46:41.967Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -803,9 +832,9 @@
       "startAt": null,
       "endAt": null,
       "date": "2026-11-17",
-      "venue": "玉泉永谦活动中心二楼报告厅",
-      "campus": "玉泉校区",
-      "building": "玉泉永谦活动中心二",
+      "venue": "紫金港校区尧坤楼222传化厅",
+      "campus": "紫金港校区",
+      "building": "紫金港校区尧坤楼222",
       "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=050c6b9c5dca075feecfaf5986d170c3",
       "companyInfo": {
         "nature": "",
@@ -815,11 +844,11 @@
       },
       "jobs": [],
       "participants": [],
-      "description": "",
+      "description": "曼伦 27 届秋招线下宣讲\n\n浙江大学？综合场来啦！\n\n时间：2026年11月17日（周二）18:00-20:00\n\n地点：浙江大学·紫金港校区（尧坤楼222传化厅）\n\n本次综合场宣讲覆盖电商运营、内容运营、组织发展、供应链等方向，同步讲解秋招正式批与预习班项目，一站式摸清岗位全貌，更有机会提前解锁校招offer！\n\n【现场嘉宾】\n\n副总裁亲自宣讲：分享企业发展战略、快消行业趋势，解读曼伦人才培养理念，现场开放互动问答，交流职业困惑；\n\n曼伦学长学姐：分享校招面试经验、在职真实感悟；\n\nHR 团队：现场答疑，线上简历接收，同步预习班 & 秋招全部校招政策。\n\n【宣讲会专属福利】\n\n面试通道：参加宣讲会并通过简历筛选+测评的同学，有机会直接进入11月6日线下面试；\n\n到场礼遇：参加宣讲会的同学均可领取精美产品礼包；\n\n一手校招资讯：现场解锁岗位真实信息，获取宣讲专属推进机会。\n\n建议宣讲会前完成网申哦～ 网申链接：https://app.mokahr.com/campus-recruitment/manon/168534?locale=zh\u001eCN\n\n？？ 线上答疑：扫码加入曼伦-浙江大学宣讲会咨询群，校招疑问随时解答！\n\n欢迎各位同学到场交流！",
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-27T14:04:28.418Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new",
         "venue"
@@ -854,7 +883,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-12T16:35:31.213Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "fair:zph:5E6396CA4ACE5E74E0653A68DD0E9B18",
+      "kind": "fair",
+      "title": "浙江大学2027届毕业生重点行业专场双选会（高校科研院所）",
+      "company": "",
+      "startAt": null,
+      "endAt": null,
+      "date": "2026-11-18",
+      "venue": "紫金港校区西区尧坤楼二楼招聘大厅",
+      "campus": "紫金港校区",
+      "building": "紫金港校区西区尧坤楼二",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/zphgl/ckZphsqdw.zf?zphbh=5E6396CA4ACE5E74E0653A68DD0E9B18",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "关于举办浙江大学2027届毕业生重点行业专场双选会（高校科研院所）的通知\n\n为更好的搭建毕业生和用人单位之间交流平台，全力促进毕业生高质量充分就业。浙江大学定于2026年11月18日在紫金港校区举办浙江大学2027届毕业生重点行业专场双选会（高校科研院所）。\n\n一、时间地点\n\n时间：2026年11月18日（星期三） 13:30－16:30\n\n地点：浙江大学紫金港校区尧坤楼二楼招聘大厅\n\n二、参会单位\n\n见下方\n\n三、参会有关事项\n\n1、浙江大学学生参会凭学生证、研究生证或校园卡，并携带应届毕业生推荐表或简历入场。\n\n2、前来应聘的毕业生要文明应聘，遵守招聘纪律，尊重用人单位招聘工作人员，妥善保管好随身物品。\n\n浙江大学就业指导与服务中心\n\n2026年11月13日",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-11-14T14:46:41.967Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -883,7 +941,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]
@@ -912,7 +970,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-08T14:46:22.779Z",
-      "lastSeenAt": "2026-11-12T16:35:31.213Z",
+      "lastSeenAt": "2026-11-14T14:46:41.967Z",
       "changes": [
         "new"
       ]

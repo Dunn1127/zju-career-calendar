@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T15:56:07.671Z",
-  "lastSuccessAt": "2026-11-22T15:56:07.671Z",
+  "generatedAt": "2026-11-23T19:51:44.282Z",
+  "lastSuccessAt": "2026-11-23T19:51:44.282Z",
   "window": {
-    "start": "2026-11-17",
-    "end": "2026-12-07"
+    "start": "2026-11-19",
+    "end": "2026-12-09"
   },
   "source": {
     "url": "https://www.career.zju.edu.cn/",
@@ -16,99 +16,6 @@
     "detailFailures": 0
   },
   "events": [
-    {
-      "id": "talk:xjh:050c6b9c5dca075feecfaf5986d170c3",
-      "kind": "talk",
-      "title": "已发布(更新)\n27届曼伦秋季校园招聘会",
-      "company": "上海曼伦商贸有限公司",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-17",
-      "venue": "紫金港校区尧坤楼222传化厅",
-      "campus": "紫金港校区",
-      "building": "紫金港校区尧坤楼222",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=050c6b9c5dca075feecfaf5986d170c3",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "曼伦 27 届秋招线下宣讲\n\n浙江大学？综合场来啦！\n\n时间：2026年11月17日（周二）18:00-20:00\n\n地点：浙江大学·紫金港校区（尧坤楼222传化厅）\n\n本次综合场宣讲覆盖电商运营、内容运营、组织发展、供应链等方向，同步讲解秋招正式批与预习班项目，一站式摸清岗位全貌，更有机会提前解锁校招offer！\n\n【现场嘉宾】\n\n副总裁亲自宣讲：分享企业发展战略、快消行业趋势，解读曼伦人才培养理念，现场开放互动问答，交流职业困惑；\n\n曼伦学长学姐：分享校招面试经验、在职真实感悟；\n\nHR 团队：现场答疑，线上简历接收，同步预习班 & 秋招全部校招政策。\n\n【宣讲会专属福利】\n\n面试通道：参加宣讲会并通过简历筛选+测评的同学，有机会直接进入11月6日线下面试；\n\n到场礼遇：参加宣讲会的同学均可领取精美产品礼包；\n\n一手校招资讯：现场解锁岗位真实信息，获取宣讲专属推进机会。\n\n建议宣讲会前完成网申哦～ 网申链接：https://app.mokahr.com/campus-recruitment/manon/168534?locale=zh\u001eCN\n\n？？ 线上答疑：扫码加入曼伦-浙江大学宣讲会咨询群，校招疑问随时解答！\n\n欢迎各位同学到场交流！",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-10-27T14:04:28.418Z",
-      "lastSeenAt": "2026-11-22T15:56:07.671Z",
-      "changes": [
-        "new",
-        "venue"
-      ],
-      "previous": {
-        "startAt": null,
-        "endAt": null,
-        "venue": "紫金港校区尧坤楼222传化厅"
-      }
-    },
-    {
-      "id": "fair:zph:600AC7AE837F1B7DE0653A68DD0E9B18",
-      "kind": "fair",
-      "title": "第29届全国卫生健康人才招聘会",
-      "company": "",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-17",
-      "venue": "尧坤楼二楼招聘大厅",
-      "campus": "校区待确认",
-      "building": "尧坤楼二",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/zphgl/ckZphsqdw.zf?zphbh=600AC7AE837F1B7DE0653A68DD0E9B18",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "各医学院校毕业生、卫生健康行业人才：\n\n为深入贯彻党的二十大及二十届历次全会精神，践行人才强国战略和健康优先发展战略，健全高质量充分就业促进机制，推动卫生健康人才队伍高质量发展，我中心充分发挥专业人才机构职能，联合多地卫生健康行政部门，协同各地医疗机构和医学院校，定于2026年10–12月在北京大型场馆和全国知名医学院校巡回举办第29届全国卫生健康人才招聘会。现将有关事宜通知如下。\n\n一、组织架构\n\n（一）主办单位\n\n国家卫生健康委人才交流服务中心\n\n天津市卫生健康委员会\n\n山东省卫生健康委员会\n\n（二）承办单位\n\n北京卫人人力资源开发有限公司\n\n天津市医学考试中心\n\n山东省卫生科技与人才发展中心\n\n高博人才\n\n（三）协办单位\n\n内蒙古自治区卫生健康医学教育考试中心\n\n上海市卫生人才交流服务中心\n\n江苏省卫生健康委员会人才服务中心\n\n浙江省医疗服务管理评价中心\n\n广西壮族自治区卫生健康人才与技术服务中心\n\n四川省卫生健康委员会人才服务中心\n\n陕西省卫生健康人才服务与外事交流中心\n\n宁夏回族自治区卫生健康干部培训中心\n\n二、大会安排\n\n（一）场次安排\n\n场次\n\n日期\n\n时间\n\n城市\n\n地点\n\n1\n\n10月27日\n\n14:00-17:00\n\n哈尔滨\n\n哈尔滨医科大学\n\n2\n\n10月29日\n\n14:00-17:00\n\n长春\n\n吉林大学白求恩医学部\n\n3\n\n10月31日\n\n09:00-12:00\n\n济南\n\n山东第一医科大学\n\n4\n\n11月3日\n\n14:00-17:00\n\n天津\n\n天津医科大学\n\n5\n\n11月7日\n\n09:00-13:00\n\n北京\n\n北京展览馆\n\n6\n\n11月10日\n\n14:00-17:00\n\n广州\n\n中山大学中山医学院\n\n7\n\n11月11日\n\n14:00-17:00\n\n广州\n\n南方医科大学\n\n8\n\n11月13日\n\n09:00-12:00\n\n成都\n\n四川大学华西医学中心\n\n9\n\n11月17日\n\n14:00-17:00\n\n杭州\n\n浙江大学紫金港校区尧坤楼二楼招聘大厅\n\n10\n\n11月24日\n\n14:00-17:00\n\n武汉\n\n华中科技大学同济医学院\n\n11\n\n11月25日\n\n14:00-17:00\n\n武汉大学医学部\n\n12\n\n11月27日\n\n14:00-17:00\n\n长沙\n\n中南大学湘雅医学院\n\n13\n\n12月3日\n\n14:00-17:00\n\n西安\n\n西安交通大学医学部\n\n（二）参会对象\n\n1.各级各类医疗卫生机构、医药企业及其他有行业人才需求的单位；\n\n2.医学院校毕业生、卫生健康行业在职人才。特别邀请高层次人才、急需紧缺专业人才、儿科和精神卫生专业人才等。\n\n（三）现场设置\n\n设置人才交流区、就业服务区。部分场次设立高层次人才专区、儿科和精神卫生专区、基层医疗卫生机构专区等。\n\n三、应聘者报名方式\n\n请扫描下方二维码，关注“卫人招聘”微信公众号，点击“个人预约”，获取入场券。\n\n参会单位及岗位需求将通过公众号持续更新，敬请关注，以便及时获取更多招聘会资讯。\n\n“卫人招聘”公众号\n\n国家卫生健康委人才交流服务中心",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-11-12T16:35:31.213Z",
-      "lastSeenAt": "2026-11-22T15:56:07.671Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "fair:zph:5E6396CA4ACE5E74E0653A68DD0E9B18",
-      "kind": "fair",
-      "title": "浙江大学2027届毕业生重点行业专场双选会（高校科研院所）",
-      "company": "",
-      "startAt": null,
-      "endAt": null,
-      "date": "2026-11-18",
-      "venue": "紫金港校区西区尧坤楼二楼招聘大厅",
-      "campus": "紫金港校区",
-      "building": "紫金港校区西区尧坤楼二",
-      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/zphgl/ckZphsqdw.zf?zphbh=5E6396CA4ACE5E74E0653A68DD0E9B18",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "关于举办浙江大学2027届毕业生重点行业专场双选会（高校科研院所）的通知\n\n为更好的搭建毕业生和用人单位之间交流平台，全力促进毕业生高质量充分就业。浙江大学定于2026年11月18日在紫金港校区举办浙江大学2027届毕业生重点行业专场双选会（高校科研院所）。\n\n一、时间地点\n\n时间：2026年11月18日（星期三） 13:30－16:30\n\n地点：浙江大学紫金港校区尧坤楼二楼招聘大厅\n\n二、参会单位\n\n见下方\n\n三、参会有关事项\n\n1、浙江大学学生参会凭学生证、研究生证或校园卡，并携带应届毕业生推荐表或简历入场。\n\n2、前来应聘的毕业生要文明应聘，遵守招聘纪律，尊重用人单位招聘工作人员，妥善保管好随身物品。\n\n浙江大学就业指导与服务中心\n\n2026年11月13日",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-11-14T14:46:41.967Z",
-      "lastSeenAt": "2026-11-22T15:56:07.671Z",
-      "changes": [
-        "new"
-      ]
-    },
     {
       "id": "talk:xjh:07c31ee9e9e292d90eb70204013754e5",
       "kind": "talk",
@@ -133,7 +40,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:39:51.401Z",
-      "lastSeenAt": "2026-11-22T15:56:07.671Z",
+      "lastSeenAt": "2026-11-23T19:51:44.282Z",
       "changes": [
         "new"
       ]
@@ -162,7 +69,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-08T14:46:22.779Z",
-      "lastSeenAt": "2026-11-22T15:56:07.671Z",
+      "lastSeenAt": "2026-11-23T19:51:44.282Z",
       "changes": [
         "new"
       ]
@@ -191,7 +98,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-17T17:23:52.546Z",
-      "lastSeenAt": "2026-11-22T15:56:07.671Z",
+      "lastSeenAt": "2026-11-23T19:51:44.282Z",
       "changes": [
         "new"
       ]
@@ -220,7 +127,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-17T17:23:52.546Z",
-      "lastSeenAt": "2026-11-22T15:56:07.671Z",
+      "lastSeenAt": "2026-11-23T19:51:44.282Z",
       "changes": [
         "new"
       ]
@@ -249,7 +156,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-18T16:57:13.643Z",
-      "lastSeenAt": "2026-11-22T15:56:07.671Z",
+      "lastSeenAt": "2026-11-23T19:51:44.282Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:xjh:8826bc802d8a07350c0c1d3781177dd6",
+      "kind": "talk",
+      "title": "深圳市影拓传感科技-校园专场宣讲会",
+      "company": "深圳市影拓传感科技有限公司",
+      "startAt": null,
+      "endAt": null,
+      "date": "2026-12-08",
+      "venue": "永谦学生活动中心B108",
+      "campus": "校区待确认",
+      "building": "永谦学生活动中心B108",
+      "sourceUrl": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=8826bc802d8a07350c0c1d3781177dd6",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "影拓传感 Inntorque -2027届校园招聘会\n\n时间：2026年12月8日 14:00\n\n地点：玉泉校区-永谦学生活动中心B108\n\n一、关于我们\n\n深圳市影拓传感科技有限公司成立于2026年，位于深圳市南山区，是一家以自研扭矩传感器为技术底座的机器人核心部件公司。\n\n我们做两件事：消费级外骨骼机器人，以及类人感知机械臂；同时把自研的磁感应式扭矩传感器作为独立产品对外供货，服务人形机器人、协作机械臂与工业助力场景。\n\n二、招聘对象\n\n2027届本科、硕士、博士毕业生\n\n三、工作地点\n\n广东省深圳市南山区烯创科技大厦A座\n\n四、招聘岗位\n\n1. 嵌入式软件工程师（电机与关节控制方向）\n\n2. 运动控制软件工程师（机器人与外骨骼方向）\n\n3. 硬件工程师\n\n4. 机械工程师\n\n我们期待您：\n\n· 拥有机械工程或相关教育背景（电气、自动化、电子信息、计算机、机械工程、机械电子、机器人工程、测控、光电、软件工程等）\n\n· 具备有效沟通和展示成果的能力；\n\n· 具备快速学习能力；\n\n· 良好的团队合作能力；\n\n五、薪酬福利\n\n年度调薪机制；\n\n五险一金，深圳一档社保； 餐补、年度体检、节日与生日福利；\n\n工作时间：早9晚6，双休；\n\n六、培养与成长\n\n技术序列：工程师 → 高级工程师 → 专家/主任工程师 → 首席工程师/技术总监\n\n管理序列：组长/主管 → 经理 → 高级经理 → 总监 → VP/CXO\n\n七、招聘流程\n\n简历投递 → 简历筛选 →技术面试→ 综合面试 → offer发放 → 入职签约\n\n八、简历投递\n\n邮箱投递：、\n\n邮件主题：应聘岗位+姓名+学校+专业\n\n附件：简历、项目/作品说明（有作品集可一并附上）\n\n宣讲会现场投递简历",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-11-23T19:51:44.282Z",
+      "lastSeenAt": "2026-11-23T19:51:44.282Z",
       "changes": [
         "new"
       ]
